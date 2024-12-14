@@ -5,7 +5,7 @@ import pandas as pd
 import scipy.stats as st
 import matplotlib.pyplot as plt
 
-heart = pd.read_csv("heart.csv")
+heart = pd.read_csv("winequality-red.csv")
 
 cols = heart.columns[:-1]
 

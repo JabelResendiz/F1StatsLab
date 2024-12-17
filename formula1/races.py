@@ -19,7 +19,7 @@ circuits = ["Monaco", "Silverstone", "Monza", "Spa", "Suzuka", "Melbourne", "Sin
 
 # Generar datos
 data = []
-for _ in range(1000):
+for _ in range(500):
     driver = random.choice(drivers)
     team = random.choice(teams)
     circuit = random.choice(circuits)
@@ -37,7 +37,7 @@ for _ in range(1000):
     final_position = random.randint(1, 20)
     
     # DNF (Did Not Finish) - distribución de Bernoulli
-    dnf = np.random.binomial(1, 0.1)  # 10% de probabilidad de DNF
+    dnf = np.random.binomial(1, 0.15)  # 10% de probabilidad de DNF
     
     # Puntos (basados en la posición final y DNF)
     points = 0 if dnf else max(0, 26 - final_position) if final_position <= 10 else 0
@@ -67,7 +67,7 @@ for _ in range(1000):
     ])
 
 # Escribir en CSV
-filename = 'formula1_race_data.csv'
+filename = './formula1/formula1_race_data.csv'
 header = ['Date', 'Driver', 'Age', 'Team', 'Circuit', 'PitStopTime', 'ReactionTime', 'FinalPosition', 'DNF', 'Points', 'MaxSpeed', 'Overtakes']
 
 with open(filename, 'w', newline='') as file:

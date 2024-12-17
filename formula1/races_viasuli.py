@@ -4,7 +4,7 @@ import seaborn as sns
 from scipy import stats
 
 # Cargar los datos
-df = pd.read_csv('formula1_race_data.csv')
+df = pd.read_csv('./formula1/formula1_race_data.csv')
 
 # Configuración de la visualización
 plt.figure(figsize=(15, 20))
@@ -15,24 +15,24 @@ plt.subplot(3, 2, 1)
 sns.histplot(df['Age'], kde=True)
 plt.title('Distribución de la edad de los pilotos')
 plt.xlabel('Edad')
-plt.show()
+
 # 2. Distribución normal: Tiempo de pit stop
 plt.subplot(3, 2, 2)
 sns.histplot(df['PitStopTime'], kde=True)
 plt.title('Distribución del tiempo de pit stop')
 plt.xlabel('Tiempo (segundos)')
-plt.show()
+
 # 3. Distribución exponencial: Tiempo de reacción
 plt.subplot(3, 2, 3)
 sns.histplot(df['ReactionTime'], kde=True)
 plt.title('Distribución del tiempo de reacción')
 plt.xlabel('Tiempo (segundos)')
 
-# 4. Distribución uniforme: Posición final
-plt.subplot(3, 2, 4)
-sns.histplot(df['FinalPosition'], kde=True, discrete=True)
-plt.title('Distribución de la posición final')
-plt.xlabel('Posición')
+# # 4. Distribución uniforme: Posición final
+# plt.subplot(3, 2, 4)
+# sns.histplot(df['FinalPosition'], kde=True, discrete=True)
+# plt.title('Distribución de la posición final')
+# plt.xlabel('Posición')
 
 # 5. Distribución de Bernoulli: DNF
 plt.subplot(3, 2, 5)
@@ -46,8 +46,15 @@ sns.histplot(df['Overtakes'], kde=True, discrete=True)
 plt.title('Distribución del número de adelantamientos')
 plt.xlabel('Número de adelantamientos')
 
+plt.subplot(3, 2, 4)
+sns.histplot(df['MaxSpeed'], kde=True, discrete=True)
+plt.title('Distribución del MaxSpeed')
+plt.xlabel('Número MaxSpeed')
+
+
+
 plt.tight_layout()
-plt.savefig('f1_distributions.png')
+plt.savefig('./formula1/f1_distributions.png')
 
 
 print("Se ha generado el gráfico 'f1_distributions.png' con las distribuciones de las variables.")

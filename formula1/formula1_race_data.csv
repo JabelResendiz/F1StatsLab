@@ -1,1001 +1,501 @@
 Date,Driver,Age,Team,Circuit,PitStopTime,ReactionTime,FinalPosition,DNF,Points,MaxSpeed,Overtakes
-2021-06-03,Hamilton,35,Williams,Montreal,2.605,0.226,18,0,0,334.3,2
-2013-08-02,Leclerc,29,Alfa Romeo,Singapore,3.898,0.004,5,0,21,321.3,6
-2018-12-08,Vettel,23,AlphaTauri,Melbourne,3.09,0.106,11,0,0,331.5,4
-2020-01-18,Ricciardo,27,Alpine,Spa,3.59,0.068,15,0,0,331.9,5
-2019-09-11,Vettel,25,Alpine,Abu Dhabi,3.146,0.027,4,1,0,327.2,4
-2021-12-17,Perez,29,McLaren,Spa,3.117,0.273,4,0,22,319.9,5
-2011-04-14,Perez,22,Alfa Romeo,Monaco,2.349,0.048,8,0,18,313.6,9
-2017-02-10,Bottas,28,Red Bull,Singapore,2.817,0.022,7,0,19,329.3,6
-2022-11-04,Vettel,29,Mercedes,Montreal,2.417,0.198,13,0,0,323.9,3
-2010-02-07,Verstappen,26,AlphaTauri,Monaco,2.286,0.047,2,0,24,318.3,3
-2018-09-04,Vettel,27,AlphaTauri,Monaco,3.518,0.344,2,0,24,325.5,3
-2018-08-09,Perez,36,Alpine,Singapore,3.848,0.223,11,0,0,343.1,4
-2023-01-28,Perez,24,Alfa Romeo,Melbourne,3.411,0.182,17,0,0,335.8,2
-2013-07-11,Alonso,23,McLaren,Spa,2.294,0.308,11,0,0,331.4,4
-2020-12-16,Alonso,23,Ferrari,Suzuka,3.029,0.095,8,0,18,319.2,7
-2013-12-25,Sainz,24,Alpine,Monaco,2.926,0.054,19,0,0,340.5,8
-2021-01-09,Bottas,32,Aston Martin,Monza,2.614,0.083,6,0,20,321.3,6
-2017-11-15,Ricciardo,28,Williams,Melbourne,3.264,0.372,19,0,0,342.6,4
-2019-03-06,Norris,27,McLaren,Montreal,3.228,0.167,15,0,0,333.4,5
-2013-01-13,Verstappen,31,Red Bull,Singapore,3.534,0.173,4,0,22,335.7,4
-2013-01-25,Alonso,31,Alfa Romeo,Montreal,3.296,0.339,2,0,24,331.6,3
-2012-12-30,Bottas,33,AlphaTauri,Melbourne,3.042,0.091,19,0,0,314.1,4
-2014-03-03,Perez,34,Red Bull,Silverstone,2.877,0.18,18,0,0,333.9,6
-2012-10-28,Hamilton,28,Haas,Melbourne,2.644,0.273,1,0,25,339.7,4
-2014-08-28,Leclerc,28,Ferrari,Silverstone,3.062,0.577,11,0,0,341.7,3
-2017-05-14,Alonso,25,Alfa Romeo,Spa,2.96,0.38,13,0,0,319.7,3
-2017-12-19,Ricciardo,26,AlphaTauri,Silverstone,2.09,0.426,10,0,16,330.8,3
-2021-02-18,Perez,20,Williams,Monza,3.664,0.041,2,0,24,352.2,5
-2019-05-14,Verstappen,32,Haas,Suzuka,3.492,0.071,13,0,0,336.1,4
-2018-04-13,Perez,31,Aston Martin,Singapore,2.818,0.014,19,0,0,324.9,5
-2014-01-04,Perez,33,Aston Martin,Abu Dhabi,2.697,0.31,6,0,20,341.6,1
-2015-08-31,Bottas,30,Alfa Romeo,Suzuka,3.311,0.285,12,0,0,325.8,3
-2018-12-28,Perez,26,Haas,Silverstone,2.554,0.055,5,0,21,331.0,6
-2018-05-14,Vettel,26,Williams,Monza,2.647,0.221,20,0,0,313.2,4
-2017-01-19,Vettel,28,Aston Martin,Monza,3.236,0.286,14,0,0,326.1,3
-2023-04-12,Vettel,25,Ferrari,Monza,3.282,0.611,6,0,20,321.6,3
-2015-11-24,Hamilton,35,Mercedes,Interlagos,3.203,0.697,15,0,0,329.2,6
-2016-02-28,Verstappen,32,McLaren,Spa,3.524,0.084,14,0,0,327.4,9
-2017-11-20,Norris,23,Alfa Romeo,Montreal,3.671,0.061,18,0,0,344.1,6
-2015-01-28,Sainz,29,McLaren,Silverstone,3.402,0.116,12,0,0,335.2,2
-2018-06-10,Vettel,24,Red Bull,Montreal,2.76,0.168,1,0,25,332.3,7
-2016-06-01,Bottas,26,Ferrari,Monaco,3.257,0.61,4,0,22,336.0,10
-2010-12-30,Verstappen,30,Alfa Romeo,Silverstone,3.497,0.225,8,0,18,331.4,2
-2013-10-20,Alonso,22,Mercedes,Monaco,2.962,0.332,18,0,0,326.0,2
-2012-02-05,Perez,25,Alfa Romeo,Monaco,2.372,0.006,10,0,16,329.5,7
-2013-06-02,Hamilton,20,Alfa Romeo,Silverstone,2.807,0.495,13,1,0,324.9,5
-2017-12-13,Leclerc,28,Alfa Romeo,Montreal,2.937,0.102,6,0,20,328.7,5
-2013-01-11,Leclerc,32,AlphaTauri,Singapore,3.208,0.419,9,0,17,326.0,4
-2016-05-06,Sainz,22,Haas,Monza,3.518,0.201,11,0,0,327.0,2
-2011-06-08,Ricciardo,30,Alpine,Montreal,2.533,0.183,7,0,19,323.8,6
-2014-08-22,Leclerc,31,Haas,Montreal,2.259,0.449,7,0,19,325.9,2
-2011-09-11,Vettel,27,Alfa Romeo,Silverstone,2.862,0.014,4,0,22,329.5,4
-2018-12-12,Sainz,30,Mercedes,Monza,3.008,0.068,1,0,25,323.6,6
-2023-12-12,Perez,27,Mercedes,Singapore,2.521,0.447,11,0,0,334.3,8
-2016-05-08,Alonso,30,Aston Martin,Silverstone,2.616,0.459,12,0,0,339.4,3
-2013-03-14,Bottas,31,Mercedes,Spa,3.79,0.185,11,0,0,319.4,5
-2017-11-22,Vettel,32,Haas,Montreal,3.682,0.056,3,0,23,324.8,8
-2016-01-08,Alonso,31,Williams,Suzuka,2.222,0.055,2,1,0,331.6,4
-2022-05-08,Leclerc,32,Red Bull,Abu Dhabi,3.053,0.219,20,0,0,356.9,3
-2013-06-06,Ricciardo,36,Mercedes,Silverstone,3.599,0.233,7,0,19,339.6,5
-2017-03-24,Bottas,28,Mercedes,Monza,1.56,0.297,20,0,0,350.6,7
-2018-02-18,Sainz,22,AlphaTauri,Monaco,3.192,0.011,5,0,21,334.7,2
-2020-10-13,Ricciardo,28,McLaren,Monaco,2.165,0.158,15,0,0,327.8,4
-2019-05-12,Sainz,21,Aston Martin,Singapore,2.389,0.007,19,0,0,337.1,0
-2021-06-13,Ricciardo,32,Mercedes,Montreal,2.581,0.017,11,1,0,339.7,2
-2017-12-04,Vettel,25,Williams,Monaco,4.595,0.37,2,0,24,340.1,3
-2011-05-06,Bottas,27,Aston Martin,Singapore,3.47,0.015,14,0,0,331.9,3
-2013-07-05,Alonso,22,Williams,Spa,3.226,0.195,9,0,17,318.3,5
-2014-04-10,Alonso,35,Red Bull,Interlagos,2.583,0.133,10,0,16,330.7,5
-2015-02-18,Bottas,37,Alfa Romeo,Suzuka,2.744,0.056,18,0,0,338.8,6
-2010-08-29,Leclerc,22,Williams,Interlagos,2.57,0.225,3,1,0,332.4,8
-2018-11-18,Norris,26,Alfa Romeo,Monza,3.162,0.276,8,0,18,323.4,4
-2021-06-09,Perez,26,Alpine,Abu Dhabi,3.021,0.141,17,0,0,342.1,4
-2012-07-02,Hamilton,31,Red Bull,Singapore,3.322,0.205,14,0,0,323.8,4
-2021-10-07,Verstappen,32,Haas,Singapore,3.075,0.058,1,0,25,330.3,3
-2017-08-16,Hamilton,24,Red Bull,Interlagos,3.414,0.086,17,1,0,339.4,3
-2010-02-19,Bottas,30,McLaren,Montreal,3.588,0.542,19,0,0,300.4,7
-2013-06-09,Vettel,27,Alfa Romeo,Montreal,3.541,0.039,12,0,0,333.5,6
-2016-03-23,Hamilton,24,AlphaTauri,Monza,3.139,0.619,6,0,20,331.6,5
-2012-12-14,Perez,25,Haas,Singapore,3.405,0.316,2,0,24,320.1,2
-2015-07-24,Norris,20,Alpine,Silverstone,4.029,0.512,2,0,24,327.9,6
-2018-02-03,Norris,24,AlphaTauri,Singapore,2.597,0.106,20,0,0,340.7,5
-2019-08-28,Bottas,20,Ferrari,Interlagos,3.52,0.066,14,0,0,341.5,2
-2022-05-10,Hamilton,27,Ferrari,Abu Dhabi,2.148,0.094,19,0,0,303.6,3
-2013-07-12,Leclerc,36,Aston Martin,Abu Dhabi,3.462,0.336,13,0,0,325.1,5
-2016-11-27,Verstappen,30,McLaren,Suzuka,2.128,0.082,12,0,0,331.3,4
-2011-12-16,Vettel,32,Alpine,Silverstone,2.776,0.139,11,0,0,347.3,8
-2012-12-27,Hamilton,34,Alfa Romeo,Melbourne,3.999,0.121,10,0,16,346.1,8
-2021-08-17,Alonso,23,Alfa Romeo,Singapore,3.314,0.171,2,1,0,329.9,5
-2014-09-21,Alonso,35,Alfa Romeo,Spa,2.841,0.202,9,0,17,316.6,4
-2011-10-06,Perez,27,Mercedes,Monza,3.839,0.358,6,0,20,339.2,2
-2015-06-19,Alonso,31,Alpine,Abu Dhabi,3.394,0.115,17,0,0,332.1,6
-2023-04-30,Perez,24,Haas,Montreal,2.184,0.179,15,0,0,330.1,4
-2021-01-14,Leclerc,32,Ferrari,Spa,3.174,0.139,14,1,0,325.0,2
-2020-04-27,Ricciardo,26,Alpine,Monaco,2.94,0.029,2,0,24,321.5,3
-2017-05-26,Vettel,29,Alpine,Monaco,2.803,0.478,17,0,0,353.0,10
-2018-11-19,Vettel,27,McLaren,Singapore,3.431,0.106,7,0,19,349.2,2
-2021-07-01,Bottas,25,Ferrari,Suzuka,2.678,0.005,13,0,0,317.2,4
-2013-11-03,Leclerc,24,AlphaTauri,Melbourne,3.052,0.156,17,0,0,335.5,4
-2017-03-23,Vettel,33,Ferrari,Silverstone,2.816,0.051,12,0,0,318.5,4
-2020-03-18,Perez,27,Red Bull,Montreal,2.336,0.153,17,0,0,329.0,6
-2015-06-15,Leclerc,37,Red Bull,Monza,3.231,0.144,16,0,0,337.8,7
-2017-08-04,Vettel,28,Haas,Silverstone,3.567,0.186,5,0,21,339.7,2
-2010-12-10,Perez,31,McLaren,Silverstone,3.663,0.22,15,0,0,315.5,5
-2015-10-14,Alonso,26,Alfa Romeo,Interlagos,2.809,0.36,4,0,22,330.9,10
-2012-12-17,Perez,36,Aston Martin,Singapore,3.474,0.407,19,0,0,336.0,4
-2013-02-13,Perez,28,Mercedes,Melbourne,3.88,0.033,6,0,20,346.9,5
-2014-07-15,Sainz,24,McLaren,Spa,3.178,0.227,4,1,0,325.7,5
-2015-12-10,Sainz,24,Red Bull,Monza,2.927,0.539,15,0,0,328.4,9
-2012-01-18,Vettel,22,McLaren,Monza,2.941,0.196,3,0,23,327.1,4
-2019-11-26,Norris,25,Mercedes,Spa,2.546,0.19,14,0,0,355.4,4
-2011-05-10,Norris,22,Mercedes,Singapore,2.668,0.036,16,0,0,323.1,2
-2020-11-01,Ricciardo,37,Mercedes,Abu Dhabi,4.17,0.14,14,0,0,325.0,2
-2011-01-23,Vettel,25,Ferrari,Monza,3.494,0.138,19,1,0,329.4,9
-2017-07-16,Alonso,29,AlphaTauri,Abu Dhabi,3.805,0.309,15,0,0,347.4,5
-2018-07-23,Leclerc,26,Ferrari,Monza,3.995,0.042,19,1,0,326.8,3
-2023-03-25,Vettel,25,AlphaTauri,Singapore,1.798,0.179,7,0,19,327.2,2
-2020-07-23,Leclerc,25,Alfa Romeo,Singapore,3.284,0.116,11,0,0,323.2,4
-2014-11-01,Alonso,25,Alfa Romeo,Montreal,3.49,0.046,7,1,0,330.0,4
-2023-05-29,Norris,34,AlphaTauri,Monza,2.079,0.382,1,0,25,310.8,4
-2014-07-29,Sainz,19,Aston Martin,Spa,3.298,0.129,10,0,16,329.5,5
-2021-05-29,Ricciardo,32,Red Bull,Interlagos,2.606,0.009,11,1,0,335.9,4
-2022-05-29,Alonso,40,Alfa Romeo,Montreal,3.193,0.062,16,1,0,337.3,9
-2022-11-16,Perez,29,Ferrari,Montreal,4.13,0.268,1,0,25,347.8,4
-2020-06-02,Ricciardo,34,Williams,Interlagos,3.299,0.261,12,0,0,338.7,3
-2022-04-05,Leclerc,26,Haas,Montreal,3.192,0.255,9,0,17,330.9,5
-2018-12-26,Norris,25,Williams,Spa,2.673,0.011,4,1,0,321.8,5
-2012-09-05,Sainz,28,McLaren,Suzuka,3.094,0.04,8,0,18,329.6,8
-2023-10-07,Hamilton,18,Williams,Silverstone,3.17,0.296,14,1,0,325.9,8
-2014-02-07,Ricciardo,28,Williams,Suzuka,2.892,0.006,5,0,21,326.7,6
-2013-12-02,Alonso,32,Haas,Abu Dhabi,2.643,0.139,7,0,19,340.6,4
-2022-09-08,Norris,33,Haas,Interlagos,3.09,0.077,16,0,0,329.4,5
-2018-11-16,Perez,26,Alpine,Abu Dhabi,2.67,0.001,9,0,17,334.7,10
-2012-12-07,Sainz,28,Mercedes,Suzuka,4.003,0.07,5,0,21,327.3,4
-2017-07-16,Alonso,35,Alpine,Melbourne,2.465,0.081,14,0,0,340.0,7
-2013-12-11,Hamilton,34,Ferrari,Monza,4.049,0.338,20,0,0,345.8,2
-2010-11-13,Leclerc,21,McLaren,Montreal,2.52,0.03,16,0,0,330.9,2
-2022-08-22,Vettel,26,AlphaTauri,Melbourne,3.106,0.31,2,0,24,330.0,5
-2018-10-30,Verstappen,32,Alfa Romeo,Abu Dhabi,2.981,0.426,5,0,21,302.7,5
-2016-10-07,Verstappen,24,AlphaTauri,Abu Dhabi,3.039,0.052,11,0,0,307.9,3
-2019-10-31,Norris,25,Williams,Montreal,2.604,0.096,2,0,24,331.1,5
-2020-03-13,Verstappen,34,AlphaTauri,Singapore,3.276,0.09,12,0,0,306.5,6
-2010-02-07,Verstappen,22,Red Bull,Interlagos,2.876,0.111,9,0,17,338.5,3
-2012-02-13,Vettel,26,AlphaTauri,Abu Dhabi,2.302,0.16,15,1,0,335.1,6
-2018-06-05,Bottas,33,Aston Martin,Melbourne,2.336,0.236,7,0,19,320.1,4
-2023-02-19,Alonso,22,Alfa Romeo,Montreal,3.188,0.34,10,1,0,317.8,8
-2022-01-01,Alonso,35,Haas,Interlagos,3.546,0.129,10,0,16,327.5,6
-2011-03-16,Verstappen,25,Aston Martin,Singapore,3.203,0.226,4,0,22,343.5,9
-2010-11-15,Bottas,29,Ferrari,Melbourne,2.715,0.142,12,1,0,330.7,3
-2020-08-03,Leclerc,30,AlphaTauri,Singapore,2.795,0.09,13,0,0,348.0,0
-2019-04-11,Verstappen,32,Williams,Melbourne,1.5,0.318,3,0,23,332.4,5
-2014-01-13,Bottas,22,Williams,Monza,2.831,0.214,2,0,24,328.5,3
-2016-06-28,Leclerc,24,Williams,Monza,3.341,0.648,13,0,0,351.9,6
-2019-05-04,Alonso,27,Aston Martin,Monza,2.969,0.132,9,0,17,337.1,6
-2020-03-16,Leclerc,33,Ferrari,Melbourne,3.312,0.26,19,0,0,315.0,4
-2019-03-05,Norris,32,Aston Martin,Singapore,3.231,0.281,14,0,0,317.0,6
-2021-06-29,Leclerc,41,Haas,Suzuka,3.464,0.208,16,0,0,321.2,10
-2015-09-25,Sainz,27,Haas,Singapore,1.692,0.048,16,0,0,337.9,6
-2012-08-05,Sainz,23,AlphaTauri,Silverstone,3.276,0.13,12,0,0,352.2,9
-2013-05-25,Hamilton,26,AlphaTauri,Melbourne,2.566,0.056,12,1,0,336.9,7
-2022-01-29,Ricciardo,28,Alfa Romeo,Monza,3.108,0.511,13,0,0,328.1,4
-2012-10-10,Bottas,21,Red Bull,Suzuka,2.083,0.71,9,0,17,326.3,6
-2020-08-21,Hamilton,27,McLaren,Suzuka,2.804,0.005,11,0,0,315.5,7
-2010-10-03,Verstappen,28,McLaren,Interlagos,2.768,0.036,20,0,0,334.1,5
-2016-12-21,Alonso,24,Alfa Romeo,Melbourne,3.167,0.229,12,0,0,339.8,6
-2018-02-14,Vettel,25,Alfa Romeo,Interlagos,3.294,0.268,9,0,17,322.7,4
-2019-12-10,Alonso,33,Ferrari,Montreal,3.895,0.247,17,0,0,334.3,3
-2015-05-09,Perez,29,AlphaTauri,Monza,3.096,0.071,17,0,0,318.6,1
-2019-04-10,Alonso,32,McLaren,Suzuka,3.138,0.237,19,0,0,342.0,7
-2019-10-05,Sainz,26,Alpine,Montreal,3.4,0.264,11,0,0,324.0,5
-2019-07-13,Alonso,26,AlphaTauri,Singapore,1.854,0.025,10,0,16,325.4,3
-2014-05-10,Verstappen,18,Williams,Singapore,2.444,0.091,3,0,23,339.0,5
-2023-05-23,Ricciardo,26,McLaren,Silverstone,3.66,0.223,3,0,23,341.9,4
-2011-01-29,Alonso,24,Alfa Romeo,Monza,2.385,0.074,13,1,0,332.4,3
-2019-02-22,Leclerc,34,Williams,Melbourne,3.266,0.453,16,0,0,348.2,6
-2020-03-25,Perez,29,Aston Martin,Spa,3.003,0.162,19,0,0,337.5,4
-2015-03-04,Ricciardo,30,Aston Martin,Silverstone,3.43,0.829,15,1,0,332.8,6
-2016-09-11,Verstappen,19,Ferrari,Spa,4.022,0.035,11,0,0,327.8,6
-2016-09-04,Verstappen,29,AlphaTauri,Monaco,2.821,0.263,2,0,24,331.9,3
-2021-10-18,Perez,23,McLaren,Singapore,2.707,0.01,7,0,19,329.6,4
-2016-03-23,Sainz,20,AlphaTauri,Abu Dhabi,2.292,0.199,13,0,0,343.7,7
-2016-06-12,Verstappen,30,Haas,Monaco,2.751,0.149,16,1,0,338.4,6
-2013-01-27,Alonso,27,Haas,Monaco,3.099,0.436,12,0,0,325.8,4
-2022-10-28,Hamilton,22,Haas,Singapore,3.316,0.072,9,0,17,307.3,4
-2016-04-28,Vettel,30,Alpine,Montreal,3.73,0.005,9,0,17,316.3,8
-2018-05-30,Sainz,28,Haas,Silverstone,2.955,0.366,13,0,0,317.2,4
-2012-05-20,Sainz,33,McLaren,Suzuka,4.055,0.314,11,0,0,333.1,5
-2017-01-31,Norris,30,AlphaTauri,Spa,1.788,0.194,20,0,0,323.1,2
-2019-04-04,Perez,35,Aston Martin,Melbourne,3.248,0.094,19,0,0,324.9,5
-2012-04-27,Norris,25,Williams,Interlagos,2.504,0.8,19,0,0,346.2,4
-2021-06-28,Leclerc,30,Ferrari,Interlagos,2.549,0.043,7,0,19,324.4,7
-2021-09-14,Sainz,23,Haas,Singapore,3.372,0.007,3,0,23,334.0,5
-2021-06-28,Vettel,21,Aston Martin,Monaco,2.984,0.245,9,0,17,330.1,3
-2015-05-19,Norris,29,Red Bull,Interlagos,2.717,0.094,5,0,21,353.6,4
-2019-09-30,Verstappen,32,AlphaTauri,Interlagos,3.023,0.25,20,0,0,315.7,6
-2021-05-02,Bottas,27,Alpine,Monaco,2.124,0.244,7,0,19,342.5,6
-2011-03-05,Ricciardo,21,Alpine,Singapore,2.785,0.132,8,0,18,348.9,3
-2017-06-13,Ricciardo,28,Williams,Monaco,3.071,0.446,1,0,25,338.0,1
-2020-12-24,Ricciardo,28,Red Bull,Silverstone,3.815,0.019,13,0,0,328.1,2
-2023-12-26,Perez,33,Red Bull,Monza,3.408,0.117,12,1,0,349.4,5
-2018-08-29,Alonso,27,Alfa Romeo,Spa,2.592,0.052,7,0,19,340.0,4
-2012-02-02,Leclerc,34,Ferrari,Suzuka,3.268,0.183,10,0,16,324.3,6
-2013-03-26,Leclerc,36,Ferrari,Abu Dhabi,2.182,0.169,11,0,0,328.3,3
-2012-06-06,Alonso,25,Alfa Romeo,Interlagos,3.109,0.592,19,0,0,341.6,6
-2014-02-01,Leclerc,26,Haas,Singapore,3.209,0.398,12,0,0,313.4,7
-2012-09-05,Norris,27,Red Bull,Monza,3.534,0.061,16,1,0,323.2,5
-2014-12-20,Leclerc,24,McLaren,Singapore,3.503,0.091,13,0,0,328.8,6
-2013-05-25,Vettel,31,Aston Martin,Singapore,2.755,0.306,19,0,0,322.5,4
-2014-12-31,Norris,29,AlphaTauri,Spa,2.441,0.732,11,0,0,324.8,7
-2017-09-04,Norris,31,Aston Martin,Monza,2.749,0.163,7,0,19,316.1,6
-2014-09-28,Ricciardo,41,Alfa Romeo,Suzuka,3.847,0.209,11,0,0,333.0,8
-2017-10-09,Hamilton,35,Alfa Romeo,Silverstone,3.188,0.244,7,1,0,338.4,4
-2019-01-02,Leclerc,29,Aston Martin,Abu Dhabi,2.375,0.036,3,0,23,338.8,2
-2023-05-23,Verstappen,30,AlphaTauri,Interlagos,3.04,0.208,17,0,0,338.8,5
-2022-08-18,Ricciardo,34,Haas,Singapore,2.738,0.005,10,0,16,332.9,6
-2021-08-26,Norris,28,Mercedes,Melbourne,2.986,0.512,12,0,0,326.8,5
-2013-07-24,Hamilton,23,Red Bull,Abu Dhabi,2.567,0.101,5,0,21,327.6,8
-2010-08-29,Leclerc,26,Mercedes,Singapore,3.161,0.45,11,0,0,346.9,4
-2021-05-29,Bottas,11,Williams,Abu Dhabi,3.219,0.07,2,0,24,331.0,2
-2012-01-08,Norris,25,Mercedes,Spa,3.396,0.315,19,0,0,312.9,6
-2011-08-14,Vettel,28,Williams,Silverstone,3.446,0.054,8,0,18,331.1,5
-2011-01-12,Alonso,30,Alfa Romeo,Spa,2.46,0.17,16,0,0,342.9,5
-2015-10-24,Bottas,25,Alfa Romeo,Montreal,3.333,0.044,19,0,0,349.7,4
-2014-05-05,Sainz,21,Red Bull,Interlagos,2.185,0.024,20,0,0,322.6,2
-2010-04-04,Hamilton,21,Alpine,Monaco,3.019,0.02,18,0,0,332.2,0
-2016-07-05,Leclerc,26,Alfa Romeo,Monaco,3.291,0.054,19,0,0,332.0,8
-2021-01-16,Norris,30,Red Bull,Monaco,2.984,0.701,4,0,22,336.0,7
-2020-06-11,Sainz,25,Aston Martin,Montreal,3.365,0.538,3,0,23,329.1,5
-2015-03-08,Bottas,28,Mercedes,Suzuka,3.636,0.195,2,0,24,321.5,8
-2019-08-28,Ricciardo,23,Haas,Suzuka,3.518,0.099,13,1,0,333.6,5
-2015-12-18,Vettel,30,Red Bull,Melbourne,3.207,0.046,10,0,16,333.0,7
-2022-12-26,Bottas,21,Haas,Suzuka,2.869,0.012,3,0,23,330.4,5
-2011-04-18,Verstappen,20,Haas,Abu Dhabi,3.544,0.038,10,0,16,333.9,2
-2013-04-13,Perez,26,Aston Martin,Interlagos,2.762,0.184,3,0,23,326.7,3
-2011-07-28,Norris,35,Aston Martin,Singapore,2.805,0.043,17,0,0,330.9,6
-2018-12-09,Leclerc,26,Aston Martin,Suzuka,3.388,0.519,7,0,19,323.5,1
-2021-04-25,Vettel,32,Williams,Interlagos,3.298,0.659,18,0,0,332.2,2
-2019-10-10,Hamilton,20,McLaren,Interlagos,2.131,0.346,16,0,0,320.2,3
-2015-01-22,Ricciardo,24,Aston Martin,Monza,2.291,0.19,12,0,0,334.3,3
-2022-03-18,Verstappen,32,AlphaTauri,Montreal,4.051,0.038,5,1,0,315.7,5
-2021-08-02,Norris,28,Aston Martin,Singapore,3.599,0.047,8,0,18,336.0,5
-2011-11-12,Alonso,25,Alfa Romeo,Monza,3.189,0.328,8,1,0,321.2,5
-2013-07-18,Ricciardo,25,McLaren,Singapore,3.176,0.19,1,0,25,326.7,0
-2013-06-18,Verstappen,28,Mercedes,Melbourne,3.696,0.116,12,1,0,315.5,5
-2013-01-15,Hamilton,25,Mercedes,Spa,3.088,0.193,10,0,16,335.0,7
-2022-01-25,Ricciardo,18,Williams,Melbourne,3.668,0.164,19,0,0,331.8,5
-2014-09-18,Leclerc,27,AlphaTauri,Monza,3.085,0.318,19,0,0,318.7,4
-2018-01-31,Hamilton,26,Red Bull,Melbourne,2.915,0.097,10,0,16,329.9,5
-2013-10-11,Alonso,31,Mercedes,Spa,3.849,0.731,13,0,0,322.9,4
-2012-06-19,Verstappen,15,AlphaTauri,Silverstone,3.433,0.013,12,0,0,318.4,4
-2015-07-23,Perez,31,Red Bull,Abu Dhabi,2.967,0.147,1,0,25,331.2,6
-2011-11-24,Sainz,33,McLaren,Abu Dhabi,3.491,0.229,19,0,0,340.0,9
-2011-08-01,Leclerc,22,Williams,Montreal,3.336,0.01,14,0,0,324.8,7
-2013-12-27,Bottas,24,Alfa Romeo,Spa,3.319,0.122,6,0,20,344.0,6
-2021-07-24,Bottas,31,Haas,Spa,2.675,0.5,11,0,0,320.5,3
-2017-01-20,Ricciardo,31,Ferrari,Spa,3.337,0.399,17,1,0,327.7,4
-2020-09-29,Ricciardo,23,Aston Martin,Monaco,2.71,0.233,17,0,0,330.5,6
-2015-05-01,Vettel,27,Aston Martin,Suzuka,2.658,0.279,9,0,17,332.0,4
-2014-06-09,Ricciardo,29,Alfa Romeo,Singapore,2.933,0.202,8,0,18,341.6,2
-2013-05-12,Sainz,22,Haas,Spa,2.403,0.201,1,0,25,323.0,6
-2020-06-27,Hamilton,27,Mercedes,Monaco,2.288,0.26,13,0,0,330.4,6
-2018-10-16,Vettel,32,Williams,Monaco,2.761,0.288,18,0,0,328.1,3
-2022-11-21,Alonso,22,Haas,Interlagos,2.894,0.139,1,0,25,330.4,5
-2019-10-12,Leclerc,19,Aston Martin,Abu Dhabi,2.607,0.572,20,0,0,342.6,5
-2018-10-27,Hamilton,28,Alpine,Monza,3.331,0.092,12,0,0,313.8,5
-2018-12-29,Sainz,16,Williams,Abu Dhabi,3.636,0.072,11,0,0,324.8,4
-2013-04-10,Verstappen,22,Mercedes,Abu Dhabi,4.221,0.163,20,0,0,340.4,5
-2011-06-28,Vettel,21,Red Bull,Suzuka,3.929,0.045,16,0,0,343.6,3
-2012-04-22,Bottas,19,AlphaTauri,Montreal,2.523,0.273,20,0,0,323.2,5
-2016-05-06,Alonso,32,Aston Martin,Melbourne,2.793,0.539,10,0,16,339.6,4
-2021-09-18,Norris,26,Alfa Romeo,Suzuka,3.742,0.007,8,0,18,326.2,3
-2010-03-03,Bottas,26,Williams,Interlagos,3.097,0.629,16,1,0,317.0,3
-2023-11-15,Bottas,24,Red Bull,Spa,2.717,0.238,4,0,22,338.8,8
-2010-02-04,Alonso,25,Ferrari,Monza,3.51,0.006,17,0,0,347.4,5
-2023-11-20,Norris,26,AlphaTauri,Abu Dhabi,2.244,0.196,17,0,0,332.7,3
-2014-04-03,Norris,31,Ferrari,Monaco,3.166,0.263,2,0,24,333.4,5
-2020-04-25,Bottas,30,Alfa Romeo,Abu Dhabi,3.484,0.087,3,0,23,316.8,6
-2020-08-26,Hamilton,29,Alpine,Spa,2.987,0.071,11,0,0,322.5,3
-2020-07-14,Ricciardo,26,Williams,Melbourne,3.057,0.55,8,0,18,328.0,7
-2019-01-25,Vettel,30,Alfa Romeo,Suzuka,3.147,0.02,10,0,16,341.7,6
-2010-11-18,Sainz,27,Mercedes,Montreal,2.807,0.196,14,0,0,335.0,4
-2010-01-20,Hamilton,31,Haas,Interlagos,2.917,0.866,13,0,0,346.6,6
-2022-01-22,Sainz,28,Aston Martin,Spa,2.603,0.192,14,0,0,311.6,5
-2021-08-04,Hamilton,26,Aston Martin,Abu Dhabi,3.026,0.069,15,0,0,326.2,5
-2019-09-03,Perez,42,McLaren,Monaco,3.081,0.013,2,1,0,339.1,5
-2016-11-18,Bottas,27,AlphaTauri,Singapore,2.137,0.446,7,0,19,322.3,5
-2023-08-31,Vettel,28,Alfa Romeo,Spa,3.145,0.105,5,0,21,321.0,2
-2012-08-25,Norris,29,Williams,Silverstone,2.176,0.2,12,0,0,343.7,7
-2016-10-25,Sainz,23,McLaren,Silverstone,3.577,0.001,3,0,23,333.5,3
-2011-02-20,Vettel,25,McLaren,Monaco,3.443,0.101,17,0,0,331.8,7
-2016-07-27,Ricciardo,33,Haas,Melbourne,3.189,0.405,16,0,0,326.8,7
-2017-12-27,Leclerc,24,Ferrari,Montreal,2.542,0.539,17,0,0,337.2,5
-2015-10-06,Hamilton,29,McLaren,Silverstone,3.148,0.003,1,0,25,312.0,1
-2017-07-16,Leclerc,22,AlphaTauri,Silverstone,1.971,0.203,15,0,0,332.9,3
-2021-06-06,Alonso,28,Alfa Romeo,Montreal,3.614,0.21,3,0,23,348.6,6
-2023-08-28,Vettel,30,Mercedes,Abu Dhabi,2.958,0.293,18,0,0,334.6,4
-2011-04-09,Alonso,30,Alpine,Spa,3.522,0.061,8,0,18,304.5,7
-2010-11-05,Alonso,25,Ferrari,Melbourne,2.92,0.144,13,0,0,310.8,2
-2021-04-18,Perez,35,Haas,Singapore,2.346,0.025,7,0,19,354.6,6
-2011-06-20,Ricciardo,32,Alfa Romeo,Interlagos,3.218,0.233,14,0,0,352.9,7
-2014-04-03,Verstappen,20,Williams,Abu Dhabi,2.464,0.106,2,0,24,324.5,10
-2018-05-24,Vettel,28,Williams,Monaco,2.881,0.09,12,0,0,341.9,5
-2018-03-11,Sainz,26,Alfa Romeo,Abu Dhabi,2.895,0.014,17,1,0,329.2,1
-2010-02-21,Alonso,31,Ferrari,Montreal,2.402,0.005,18,0,0,322.8,3
-2013-04-02,Norris,31,Alfa Romeo,Monza,3.167,0.082,11,0,0,328.5,2
-2012-08-28,Ricciardo,29,Mercedes,Silverstone,2.913,0.12,15,0,0,341.5,9
-2019-02-25,Sainz,34,Williams,Monza,2.724,0.109,14,1,0,318.5,9
-2012-04-09,Hamilton,33,Aston Martin,Suzuka,3.605,0.222,2,0,24,338.0,2
-2020-11-22,Verstappen,34,Williams,Monaco,3.242,0.04,5,0,21,328.7,2
-2015-08-08,Leclerc,22,Mercedes,Spa,1.755,0.128,18,0,0,308.3,5
-2019-01-31,Norris,26,Alpine,Suzuka,2.979,0.224,12,0,0,335.9,2
-2019-08-26,Ricciardo,21,Red Bull,Monza,2.646,0.096,2,0,24,325.2,1
-2018-01-25,Bottas,25,Aston Martin,Spa,3.352,0.299,14,0,0,324.5,7
-2010-03-10,Hamilton,19,Mercedes,Montreal,3.246,0.093,19,0,0,335.3,3
-2013-01-12,Verstappen,18,Haas,Interlagos,3.127,0.019,20,0,0,327.7,3
-2017-01-27,Bottas,31,McLaren,Abu Dhabi,3.028,0.05,6,0,20,328.3,3
-2021-05-19,Verstappen,30,Williams,Suzuka,2.381,0.155,10,0,16,345.0,6
-2017-02-21,Alonso,27,Haas,Abu Dhabi,3.023,0.39,14,0,0,333.5,4
-2015-02-15,Verstappen,29,Alfa Romeo,Spa,3.288,0.021,19,0,0,328.4,4
-2011-03-10,Alonso,31,Red Bull,Abu Dhabi,3.414,0.061,12,0,0,316.9,5
-2020-09-16,Verstappen,28,Haas,Interlagos,3.836,0.049,20,0,0,335.7,4
-2021-06-22,Hamilton,28,Alpine,Silverstone,3.51,0.297,10,0,16,334.7,9
-2017-01-21,Alonso,24,Alfa Romeo,Interlagos,3.425,0.103,15,0,0,336.5,5
-2022-09-30,Bottas,26,Haas,Monza,2.946,0.025,15,0,0,321.0,2
-2019-05-28,Sainz,26,Williams,Abu Dhabi,2.371,0.581,5,0,21,330.3,4
-2010-07-05,Ricciardo,22,McLaren,Melbourne,2.645,0.145,20,0,0,314.9,2
-2023-07-15,Leclerc,22,Ferrari,Monza,2.412,0.054,17,0,0,335.1,6
-2015-09-21,Ricciardo,34,Mercedes,Monza,3.002,0.017,15,0,0,323.0,6
-2022-12-04,Leclerc,37,Red Bull,Monza,3.58,0.128,1,0,25,319.4,4
-2021-02-06,Vettel,26,AlphaTauri,Spa,3.405,0.298,14,0,0,325.7,6
-2022-12-15,Alonso,24,Haas,Interlagos,2.905,0.431,16,0,0,341.2,5
-2019-12-08,Sainz,21,Red Bull,Monaco,3.142,0.025,9,0,17,326.3,11
-2014-01-18,Bottas,23,Alpine,Interlagos,3.229,0.181,3,0,23,324.3,3
-2023-12-30,Perez,29,McLaren,Montreal,2.592,0.224,11,0,0,311.6,4
-2023-07-09,Bottas,31,Alpine,Abu Dhabi,2.063,0.257,20,0,0,345.4,8
-2021-12-12,Verstappen,24,Alpine,Melbourne,3.307,0.174,18,0,0,340.7,6
-2012-06-07,Verstappen,28,Ferrari,Singapore,3.371,0.036,7,0,19,335.5,7
-2022-09-14,Norris,26,Alfa Romeo,Monza,2.396,0.165,14,0,0,331.0,7
-2013-01-28,Vettel,29,Alfa Romeo,Abu Dhabi,3.54,0.038,17,0,0,343.3,5
-2018-09-17,Verstappen,27,Alpine,Singapore,2.997,0.075,6,0,20,320.3,4
-2019-09-01,Ricciardo,20,Mercedes,Suzuka,3.551,0.005,12,0,0,328.3,5
-2012-03-03,Bottas,26,Alpine,Spa,3.669,0.209,10,0,16,332.7,6
-2015-05-29,Bottas,34,Mercedes,Singapore,2.904,0.119,12,0,0,341.9,9
-2011-04-07,Verstappen,18,Williams,Monza,3.548,0.047,14,1,0,316.9,6
-2019-10-13,Leclerc,34,Aston Martin,Monza,2.654,0.648,18,0,0,331.3,9
-2019-06-22,Sainz,28,Red Bull,Singapore,3.052,0.017,11,0,0,340.1,5
-2016-02-23,Verstappen,31,Aston Martin,Interlagos,3.412,0.189,19,1,0,326.8,5
-2012-05-15,Bottas,26,McLaren,Monaco,3.116,0.131,7,0,19,302.5,4
-2014-07-24,Leclerc,30,McLaren,Interlagos,3.461,0.389,13,0,0,344.4,7
-2020-10-22,Sainz,23,Williams,Montreal,3.326,0.269,6,0,20,309.1,3
-2020-07-08,Vettel,27,Mercedes,Abu Dhabi,3.267,0.345,20,0,0,335.7,2
-2023-08-18,Sainz,34,Mercedes,Silverstone,3.119,0.036,9,0,17,336.0,2
-2018-05-13,Verstappen,29,Aston Martin,Interlagos,3.485,0.369,16,1,0,339.5,6
-2020-06-26,Verstappen,26,Haas,Silverstone,2.834,0.228,12,1,0,328.5,5
-2019-08-18,Bottas,31,Williams,Abu Dhabi,3.952,0.086,12,0,0,311.1,7
-2020-11-18,Ricciardo,31,Ferrari,Spa,3.937,0.131,15,1,0,338.0,1
-2012-07-28,Bottas,21,Mercedes,Melbourne,3.383,0.032,18,0,0,319.2,6
-2016-02-08,Sainz,26,Ferrari,Interlagos,2.658,0.065,7,0,19,317.2,4
-2015-12-21,Vettel,36,Alpine,Silverstone,2.964,0.17,6,0,20,340.3,3
-2016-12-02,Alonso,30,Mercedes,Spa,2.539,0.071,4,0,22,320.1,4
-2011-05-06,Alonso,24,Aston Martin,Monaco,2.748,0.636,5,0,21,319.0,5
-2020-03-25,Norris,29,Haas,Melbourne,3.542,0.095,19,1,0,309.3,6
-2015-11-24,Perez,24,Ferrari,Abu Dhabi,3.172,0.273,6,0,20,337.4,6
-2018-06-10,Verstappen,27,McLaren,Singapore,2.92,0.122,17,0,0,343.9,6
-2020-04-12,Ricciardo,24,Red Bull,Suzuka,3.966,0.455,11,0,0,336.3,5
-2017-09-02,Ricciardo,29,Haas,Monza,3.235,0.03,17,1,0,319.9,6
-2020-06-22,Hamilton,27,Alfa Romeo,Monza,2.88,0.406,13,0,0,324.4,3
-2012-05-31,Norris,22,Ferrari,Monza,1.988,0.023,16,0,0,324.8,8
-2019-12-07,Alonso,26,McLaren,Spa,2.866,0.068,13,0,0,323.9,2
-2017-04-20,Leclerc,23,Alfa Romeo,Interlagos,1.797,0.306,13,0,0,318.7,5
-2017-08-26,Bottas,27,Mercedes,Spa,3.21,0.14,15,0,0,327.7,5
-2013-12-11,Perez,25,Williams,Interlagos,2.802,0.069,6,0,20,325.8,6
-2018-11-22,Ricciardo,34,AlphaTauri,Montreal,3.749,0.023,7,0,19,319.3,4
-2012-09-09,Hamilton,23,McLaren,Monaco,3.078,0.06,10,0,16,321.5,4
-2010-09-12,Bottas,22,Ferrari,Singapore,3.188,0.135,6,1,0,316.2,6
-2020-08-14,Vettel,31,AlphaTauri,Abu Dhabi,3.154,0.005,13,0,0,317.9,5
-2014-05-19,Hamilton,30,McLaren,Montreal,3.244,0.011,7,0,19,326.8,5
-2011-09-05,Ricciardo,27,Ferrari,Singapore,2.027,0.029,5,0,21,342.5,5
-2015-07-29,Alonso,33,AlphaTauri,Abu Dhabi,2.723,0.777,12,0,0,324.7,6
-2010-02-03,Verstappen,38,AlphaTauri,Suzuka,3.025,0.09,15,0,0,337.8,4
-2023-08-12,Leclerc,27,Red Bull,Montreal,4.059,0.62,13,0,0,329.9,6
-2016-09-23,Ricciardo,25,Alfa Romeo,Singapore,3.143,0.031,17,0,0,330.1,4
-2021-06-03,Leclerc,27,Haas,Abu Dhabi,3.951,0.632,3,0,23,350.2,4
-2013-11-29,Sainz,27,Alpine,Suzuka,2.865,0.206,6,0,20,316.9,6
-2012-06-21,Alonso,27,Alfa Romeo,Melbourne,2.94,0.093,11,0,0,333.1,7
-2022-09-29,Leclerc,26,McLaren,Monza,3.305,0.005,17,0,0,342.2,4
-2023-01-02,Bottas,31,Ferrari,Abu Dhabi,2.873,0.077,13,0,0,331.1,7
-2020-02-01,Hamilton,28,Mercedes,Abu Dhabi,1.633,0.413,9,0,17,329.4,8
-2022-10-14,Vettel,25,Haas,Singapore,2.329,1.122,2,0,24,340.1,6
-2015-08-10,Bottas,24,Red Bull,Silverstone,2.386,0.113,18,0,0,341.0,5
-2021-04-28,Ricciardo,21,Red Bull,Interlagos,2.594,0.032,16,0,0,328.5,8
-2011-12-22,Leclerc,30,Mercedes,Spa,3.077,0.089,2,0,24,319.9,5
-2023-03-22,Bottas,29,Alpine,Silverstone,2.492,0.157,13,0,0,336.8,2
-2017-11-06,Leclerc,36,Haas,Monza,3.247,0.008,5,0,21,331.0,8
-2020-08-18,Vettel,24,McLaren,Spa,2.859,0.036,2,0,24,327.7,4
-2016-03-29,Alonso,33,Ferrari,Monza,3.156,0.172,18,0,0,328.2,4
-2022-01-22,Alonso,21,Red Bull,Monza,2.245,0.172,18,0,0,353.2,5
-2016-04-23,Vettel,36,Ferrari,Spa,3.211,0.079,17,0,0,330.0,4
-2020-12-16,Alonso,24,Alpine,Monza,3.597,0.04,6,0,20,342.3,1
-2022-09-16,Alonso,37,Haas,Singapore,3.232,0.515,15,0,0,334.9,7
-2010-10-16,Norris,25,Haas,Silverstone,2.041,0.113,10,0,16,322.9,9
-2017-04-23,Sainz,34,Aston Martin,Interlagos,3.53,0.276,2,0,24,339.6,4
-2020-05-18,Alonso,28,Ferrari,Monza,2.869,0.111,16,0,0,351.8,6
-2016-08-16,Alonso,29,AlphaTauri,Abu Dhabi,2.336,0.011,8,0,18,336.5,6
-2014-08-18,Norris,24,McLaren,Silverstone,2.78,0.037,17,0,0,332.3,4
-2021-10-28,Hamilton,27,Williams,Monaco,3.041,0.502,16,0,0,331.5,6
-2022-12-15,Norris,24,Williams,Singapore,3.283,0.06,8,0,18,352.4,5
-2010-11-19,Hamilton,21,AlphaTauri,Spa,2.721,0.005,11,0,0,350.4,8
-2021-06-30,Vettel,25,Ferrari,Monza,2.647,0.111,1,0,25,339.5,6
-2020-03-04,Perez,39,Red Bull,Spa,2.418,0.757,19,0,0,328.1,4
-2022-10-15,Verstappen,20,Alfa Romeo,Melbourne,3.566,0.012,12,1,0,330.3,1
-2012-06-29,Vettel,27,Red Bull,Montreal,3.616,0.204,6,0,20,322.3,3
-2011-08-02,Bottas,16,McLaren,Abu Dhabi,2.644,0.021,4,0,22,312.4,5
-2017-11-22,Bottas,23,Mercedes,Monaco,2.644,0.445,6,0,20,325.9,8
-2016-07-09,Bottas,22,Aston Martin,Monaco,2.646,0.37,2,0,24,320.0,5
-2021-03-23,Norris,31,Alpine,Suzuka,2.578,0.283,11,0,0,324.4,3
-2023-07-29,Perez,27,Ferrari,Silverstone,3.235,0.134,8,0,18,306.1,4
-2012-03-16,Alonso,31,Alpine,Singapore,2.198,0.111,4,0,22,326.2,4
-2020-10-19,Bottas,28,Ferrari,Montreal,2.336,0.198,2,0,24,314.8,5
-2016-06-11,Perez,29,Haas,Monza,3.261,0.072,9,0,17,344.8,7
-2018-07-25,Verstappen,28,McLaren,Suzuka,2.979,0.352,15,1,0,340.3,6
-2016-01-17,Vettel,22,Red Bull,Monaco,1.942,0.036,11,0,0,309.8,4
-2011-03-12,Norris,34,Alpine,Suzuka,2.807,0.116,3,0,23,333.9,7
-2016-12-04,Perez,18,McLaren,Silverstone,2.241,0.01,15,0,0,327.1,5
-2018-09-12,Perez,32,Alfa Romeo,Spa,3.652,0.135,2,0,24,316.2,4
-2022-11-18,Perez,27,Alfa Romeo,Suzuka,2.419,0.087,3,0,23,328.8,9
-2015-06-02,Leclerc,27,Williams,Monaco,3.43,0.034,10,0,16,342.9,3
-2016-06-01,Norris,26,Mercedes,Interlagos,3.18,0.145,12,0,0,320.5,1
-2023-04-03,Hamilton,30,AlphaTauri,Abu Dhabi,3.352,0.084,7,0,19,345.0,6
-2020-09-08,Verstappen,26,Alfa Romeo,Spa,2.8,0.01,8,0,18,339.3,7
-2020-09-07,Ricciardo,23,Alfa Romeo,Spa,3.44,0.255,11,0,0,345.9,4
-2016-04-01,Leclerc,31,AlphaTauri,Montreal,2.775,0.078,11,0,0,320.1,8
-2015-05-06,Perez,24,Mercedes,Monza,2.612,0.317,4,1,0,320.5,2
-2016-05-24,Verstappen,22,Williams,Silverstone,2.95,0.198,15,0,0,328.6,1
-2016-05-11,Norris,25,Haas,Silverstone,2.368,0.045,9,0,17,338.0,6
-2010-11-18,Sainz,24,Alfa Romeo,Montreal,2.74,0.14,3,0,23,328.1,4
-2017-02-19,Leclerc,35,Alfa Romeo,Abu Dhabi,3.823,0.048,20,0,0,327.9,7
-2022-06-18,Ricciardo,22,AlphaTauri,Abu Dhabi,3.051,0.896,17,0,0,316.8,8
-2017-10-02,Norris,23,McLaren,Interlagos,3.082,0.06,20,1,0,325.3,8
-2016-07-12,Verstappen,26,McLaren,Monaco,3.459,0.046,2,0,24,338.5,2
-2015-12-09,Ricciardo,30,Red Bull,Singapore,3.366,0.055,7,0,19,341.7,3
-2019-01-03,Norris,19,Haas,Monza,2.692,0.151,15,0,0,323.6,8
-2011-09-15,Vettel,24,Williams,Melbourne,2.347,0.235,11,1,0,337.7,3
-2013-09-15,Bottas,30,Mercedes,Silverstone,2.301,0.021,3,0,23,335.2,4
-2010-02-22,Alonso,26,Alfa Romeo,Monza,2.438,0.157,4,0,22,322.7,8
-2014-06-01,Verstappen,38,Mercedes,Spa,2.688,0.008,14,0,0,316.5,5
-2013-04-08,Bottas,27,Williams,Suzuka,2.206,0.002,1,0,25,328.0,6
-2022-07-13,Vettel,25,Haas,Montreal,2.243,0.02,10,0,16,355.6,4
-2012-02-27,Vettel,26,Mercedes,Montreal,2.665,0.525,20,0,0,332.5,6
-2017-02-04,Sainz,24,Haas,Montreal,2.679,0.577,7,0,19,336.0,5
-2022-09-15,Bottas,33,Alfa Romeo,Monza,3.685,0.037,4,0,22,332.8,8
-2011-07-21,Hamilton,37,McLaren,Singapore,3.387,0.147,13,1,0,335.9,7
-2016-03-02,Ricciardo,22,Red Bull,Singapore,3.315,0.139,2,0,24,333.5,5
-2023-02-02,Perez,32,Haas,Suzuka,2.798,0.184,20,0,0,334.7,8
-2010-05-05,Ricciardo,24,Alfa Romeo,Suzuka,3.543,0.189,7,0,19,319.3,5
-2021-11-14,Alonso,23,McLaren,Interlagos,3.021,0.018,9,0,17,330.8,8
-2022-08-04,Norris,24,Williams,Silverstone,2.861,0.015,2,0,24,327.6,3
-2013-10-02,Bottas,30,Haas,Abu Dhabi,2.21,0.049,13,0,0,331.8,3
-2014-06-25,Verstappen,23,AlphaTauri,Suzuka,3.406,0.151,14,0,0,339.2,10
-2022-01-16,Ricciardo,32,AlphaTauri,Monaco,2.777,0.06,10,0,16,318.5,6
-2023-03-03,Norris,32,McLaren,Spa,2.911,0.018,12,0,0,327.7,7
-2021-01-22,Bottas,31,Red Bull,Spa,2.881,0.109,10,0,16,327.9,3
-2014-07-31,Ricciardo,26,Haas,Silverstone,2.779,0.15,13,1,0,321.2,3
-2014-06-08,Verstappen,33,Aston Martin,Suzuka,2.326,0.234,15,0,0,328.7,2
-2022-01-29,Leclerc,34,Alpine,Melbourne,1.688,0.209,6,0,20,319.0,3
-2020-04-11,Perez,22,Mercedes,Montreal,3.391,0.342,18,0,0,324.2,0
-2012-07-05,Vettel,31,Aston Martin,Monaco,3.059,0.455,1,0,25,331.6,7
-2021-01-11,Sainz,39,Haas,Melbourne,2.485,0.167,15,0,0,314.6,10
-2010-10-13,Perez,19,Williams,Abu Dhabi,3.448,0.024,4,0,22,334.0,3
-2012-02-27,Bottas,27,Aston Martin,Abu Dhabi,3.04,0.008,7,0,19,321.9,7
-2023-02-10,Verstappen,28,Haas,Spa,2.215,0.017,8,0,18,332.0,3
-2020-01-29,Verstappen,36,Mercedes,Montreal,2.87,0.019,11,0,0,327.4,7
-2017-12-30,Norris,33,Mercedes,Monza,3.441,0.07,14,0,0,344.6,9
-2020-05-31,Vettel,29,McLaren,Montreal,3.966,0.147,8,0,18,340.0,6
-2015-01-11,Hamilton,23,McLaren,Montreal,2.921,0.164,9,0,17,329.6,4
-2016-04-07,Hamilton,28,Aston Martin,Interlagos,2.788,0.144,12,0,0,341.7,9
-2018-10-10,Bottas,28,AlphaTauri,Silverstone,3.306,0.119,17,0,0,321.7,5
-2019-02-05,Leclerc,34,Alpine,Abu Dhabi,3.497,0.205,11,0,0,331.8,8
-2013-01-15,Vettel,32,McLaren,Interlagos,3.127,0.653,7,0,19,321.2,8
-2022-05-16,Hamilton,22,Haas,Melbourne,2.699,0.07,16,0,0,327.2,8
-2013-02-07,Vettel,37,Red Bull,Melbourne,4.033,0.54,14,0,0,314.2,9
-2017-12-26,Bottas,33,Williams,Monza,2.644,0.07,20,0,0,321.2,4
-2018-03-29,Verstappen,21,McLaren,Monza,2.706,0.049,8,0,18,324.5,8
-2019-03-11,Ricciardo,20,Red Bull,Abu Dhabi,3.836,0.618,17,0,0,316.1,7
-2014-08-18,Leclerc,22,Ferrari,Spa,2.967,0.297,5,0,21,352.2,9
-2019-05-12,Verstappen,28,Red Bull,Abu Dhabi,3.467,0.249,19,0,0,332.1,5
-2014-05-21,Perez,32,Alfa Romeo,Abu Dhabi,3.53,0.001,12,1,0,309.1,6
-2019-01-07,Ricciardo,25,Ferrari,Interlagos,3.114,0.859,11,0,0,344.7,5
-2013-04-28,Verstappen,28,Aston Martin,Monaco,3.921,0.517,5,0,21,321.7,9
-2014-03-17,Bottas,35,Aston Martin,Melbourne,3.263,0.864,4,0,22,344.2,6
-2013-07-13,Leclerc,31,Alfa Romeo,Montreal,2.76,0.198,11,0,0,345.3,5
-2010-07-11,Leclerc,23,Haas,Melbourne,2.685,0.106,12,0,0,336.8,6
-2016-09-03,Vettel,25,Williams,Spa,3.086,0.17,5,0,21,330.2,3
-2013-10-14,Hamilton,42,Alfa Romeo,Suzuka,3.801,0.096,4,0,22,315.4,7
-2017-04-27,Sainz,32,Alfa Romeo,Melbourne,2.081,0.043,13,0,0,329.0,4
-2013-01-03,Ricciardo,32,Alpine,Melbourne,3.576,0.014,6,0,20,328.6,4
-2014-03-19,Perez,31,Red Bull,Monza,3.042,0.198,10,0,16,322.9,7
-2015-01-14,Norris,27,Mercedes,Silverstone,3.234,0.137,6,0,20,322.1,4
-2017-02-19,Leclerc,31,Williams,Melbourne,2.963,0.015,7,0,19,340.0,5
-2018-12-08,Hamilton,21,Ferrari,Silverstone,3.198,0.086,12,0,0,339.1,3
-2017-07-03,Vettel,30,Ferrari,Singapore,3.304,0.276,17,1,0,341.0,7
-2018-05-02,Bottas,27,Mercedes,Interlagos,3.396,0.075,7,0,19,329.3,5
-2023-12-11,Perez,26,McLaren,Suzuka,3.338,0.003,19,0,0,324.8,8
-2022-07-03,Norris,29,AlphaTauri,Interlagos,4.56,0.076,14,0,0,348.3,5
-2023-08-01,Perez,29,Williams,Singapore,2.981,0.373,13,0,0,324.7,7
-2020-09-18,Perez,34,Aston Martin,Suzuka,3.173,0.196,7,0,19,323.5,5
-2023-11-01,Norris,27,McLaren,Spa,3.171,0.001,13,0,0,336.4,4
-2021-01-04,Alonso,27,Alpine,Melbourne,2.588,0.044,19,0,0,329.7,6
-2013-03-17,Bottas,29,Alpine,Abu Dhabi,2.745,0.022,5,1,0,340.2,4
-2023-08-04,Bottas,19,Mercedes,Interlagos,3.321,0.517,16,0,0,328.8,4
-2018-01-03,Vettel,30,McLaren,Melbourne,2.045,0.466,2,0,24,328.5,5
-2015-12-28,Ricciardo,33,McLaren,Interlagos,3.204,0.043,11,0,0,316.6,5
-2022-07-31,Ricciardo,26,Alpine,Spa,2.851,0.573,3,0,23,344.1,4
-2018-07-08,Ricciardo,29,Alpine,Monza,3.535,0.141,6,0,20,339.9,4
-2012-01-19,Vettel,34,Ferrari,Abu Dhabi,2.9,0.387,7,0,19,322.9,3
-2023-10-12,Ricciardo,27,Mercedes,Singapore,3.33,0.075,12,0,0,329.1,6
-2020-01-05,Verstappen,32,McLaren,Suzuka,3.465,0.063,10,0,16,340.8,11
-2016-02-15,Perez,21,AlphaTauri,Interlagos,3.903,0.515,20,0,0,339.0,1
-2019-01-16,Sainz,30,Ferrari,Spa,3.4,0.154,20,1,0,327.7,4
-2018-10-28,Verstappen,24,Haas,Melbourne,3.013,0.174,20,1,0,332.3,5
-2023-06-07,Bottas,38,Aston Martin,Melbourne,3.32,0.08,16,1,0,308.7,8
-2016-03-06,Ricciardo,25,McLaren,Suzuka,2.513,0.011,13,0,0,338.8,8
-2020-08-23,Bottas,28,Red Bull,Monaco,2.93,0.135,9,0,17,332.7,6
-2023-03-15,Alonso,26,Mercedes,Silverstone,3.662,0.058,13,0,0,339.4,5
-2010-04-07,Hamilton,32,Aston Martin,Suzuka,2.561,0.04,6,0,20,331.7,5
-2011-12-03,Hamilton,19,Williams,Melbourne,2.554,0.485,4,0,22,314.5,5
-2015-09-08,Bottas,34,Haas,Montreal,2.838,0.031,18,0,0,324.2,7
-2011-01-09,Perez,28,Alpine,Abu Dhabi,2.602,0.065,16,1,0,338.8,6
-2011-11-30,Ricciardo,28,AlphaTauri,Singapore,3.082,0.181,4,1,0,337.3,6
-2011-07-29,Sainz,27,AlphaTauri,Singapore,2.354,0.044,3,0,23,339.5,5
-2010-11-16,Vettel,34,Aston Martin,Abu Dhabi,3.819,0.051,12,0,0,334.9,9
-2023-09-08,Sainz,24,AlphaTauri,Monaco,3.303,0.368,1,0,25,334.0,4
-2018-04-19,Bottas,27,Ferrari,Singapore,3.905,0.195,10,0,16,320.3,4
-2016-03-18,Bottas,45,AlphaTauri,Singapore,3.13,0.13,5,0,21,329.8,7
-2019-06-17,Sainz,38,Ferrari,Montreal,2.937,0.21,18,0,0,318.9,2
-2016-05-12,Verstappen,20,Mercedes,Silverstone,2.555,0.414,4,1,0,331.4,2
-2010-09-08,Verstappen,26,Aston Martin,Monza,3.939,0.059,14,0,0,330.4,5
-2017-10-14,Bottas,23,Haas,Monza,2.298,0.024,3,0,23,335.6,6
-2022-07-29,Norris,20,AlphaTauri,Monaco,3.194,0.061,12,0,0,309.5,7
-2023-10-15,Verstappen,25,McLaren,Montreal,3.349,0.221,15,0,0,331.2,5
-2021-09-29,Perez,44,Aston Martin,Silverstone,2.447,0.007,1,0,25,337.3,6
-2010-05-01,Bottas,37,Alpine,Suzuka,2.571,0.494,4,0,22,326.1,6
-2011-12-04,Sainz,26,Mercedes,Montreal,2.934,0.203,18,0,0,318.3,5
-2019-03-22,Norris,23,Ferrari,Silverstone,3.273,0.043,16,0,0,334.7,6
-2020-06-01,Verstappen,24,McLaren,Montreal,3.118,0.081,7,0,19,330.3,5
-2010-02-18,Perez,28,Ferrari,Montreal,1.943,0.253,3,0,23,335.2,5
-2013-03-23,Norris,31,AlphaTauri,Silverstone,2.683,0.427,19,0,0,327.9,5
-2021-09-20,Leclerc,28,Haas,Singapore,2.748,0.301,16,0,0,319.9,3
-2022-02-15,Sainz,31,Alfa Romeo,Suzuka,2.424,0.124,1,0,25,327.9,6
-2015-12-31,Leclerc,31,Ferrari,Abu Dhabi,2.937,0.287,8,0,18,334.1,6
-2019-12-18,Bottas,28,Alfa Romeo,Monaco,3.092,0.061,18,0,0,330.3,7
-2020-05-11,Verstappen,22,AlphaTauri,Monaco,2.645,0.228,13,0,0,320.2,5
-2013-09-29,Vettel,22,AlphaTauri,Abu Dhabi,3.765,0.012,2,0,24,317.7,8
-2019-05-08,Alonso,30,Alfa Romeo,Melbourne,2.522,0.013,19,0,0,328.1,5
-2011-04-09,Verstappen,22,Alpine,Interlagos,2.589,0.161,16,0,0,332.5,5
-2018-08-29,Ricciardo,32,Ferrari,Spa,2.948,0.234,4,0,22,333.9,2
-2018-01-13,Leclerc,35,McLaren,Suzuka,2.579,0.086,18,0,0,304.2,8
-2018-07-24,Bottas,34,AlphaTauri,Montreal,3.271,0.347,15,1,0,325.7,4
-2018-09-25,Ricciardo,14,Ferrari,Montreal,3.741,0.616,18,0,0,331.2,2
-2010-10-20,Alonso,24,Red Bull,Interlagos,3.758,0.005,13,0,0,311.1,5
-2016-05-13,Ricciardo,35,Alfa Romeo,Spa,3.394,0.096,3,0,23,316.6,3
-2021-09-17,Hamilton,28,Alpine,Monza,2.192,0.027,5,0,21,334.0,6
-2023-12-23,Norris,23,Mercedes,Interlagos,3.12,0.234,2,0,24,324.6,6
-2023-08-14,Alonso,28,Williams,Interlagos,3.201,0.03,3,0,23,333.7,7
-2013-10-25,Hamilton,18,Aston Martin,Montreal,2.615,0.257,8,0,18,340.4,1
-2010-02-03,Norris,21,Williams,Monaco,2.497,0.229,2,0,24,325.0,4
-2015-03-14,Norris,20,Alfa Romeo,Silverstone,1.937,0.043,6,0,20,335.1,10
-2020-01-05,Alonso,24,Alfa Romeo,Montreal,3.108,0.961,10,0,16,314.9,7
-2022-10-05,Hamilton,24,Aston Martin,Melbourne,3.431,0.067,12,0,0,333.1,7
-2023-09-17,Verstappen,27,AlphaTauri,Monaco,2.956,0.08,6,0,20,331.7,7
-2016-08-29,Perez,23,Alfa Romeo,Silverstone,3.182,0.021,6,0,20,324.6,5
-2020-12-04,Vettel,24,Haas,Abu Dhabi,2.643,0.205,7,0,19,332.8,4
-2010-08-01,Ricciardo,31,Aston Martin,Monza,2.519,0.062,17,0,0,345.3,5
-2011-08-17,Vettel,32,Haas,Interlagos,2.769,1.349,6,0,20,335.9,7
-2023-11-04,Verstappen,34,Mercedes,Monaco,2.83,0.213,6,0,20,327.7,2
-2018-04-28,Perez,29,McLaren,Monza,3.12,0.399,14,0,0,323.0,5
-2010-11-19,Ricciardo,28,McLaren,Abu Dhabi,2.989,0.378,16,0,0,313.8,5
-2013-04-20,Verstappen,28,Aston Martin,Suzuka,2.782,0.005,12,0,0,329.6,2
-2021-04-14,Perez,24,McLaren,Suzuka,2.739,0.254,15,0,0,332.4,7
-2017-04-05,Leclerc,32,Aston Martin,Silverstone,3.056,0.104,1,0,25,328.6,7
-2019-07-02,Hamilton,22,Haas,Interlagos,3.325,0.182,7,0,19,334.2,3
-2015-02-28,Alonso,34,Mercedes,Melbourne,2.999,0.065,11,0,0,332.7,6
-2013-01-22,Hamilton,30,Alpine,Monza,3.355,0.012,20,0,0,313.0,9
-2017-12-02,Bottas,23,AlphaTauri,Suzuka,2.457,0.063,10,0,16,328.0,6
-2018-10-10,Hamilton,33,Alpine,Singapore,2.606,0.063,4,0,22,341.0,5
-2022-11-24,Bottas,26,AlphaTauri,Monza,2.863,0.266,11,0,0,341.4,6
-2016-07-01,Leclerc,29,Williams,Melbourne,2.493,0.005,5,0,21,330.1,6
-2015-11-16,Verstappen,26,Red Bull,Monaco,2.882,0.056,1,0,25,335.7,9
-2021-12-09,Verstappen,25,Red Bull,Melbourne,2.806,0.177,19,1,0,336.1,3
-2013-11-14,Leclerc,36,Haas,Silverstone,2.546,0.257,3,0,23,329.2,9
-2021-11-02,Bottas,36,Alpine,Spa,4.146,0.221,15,0,0,320.6,7
-2015-12-14,Alonso,24,Red Bull,Abu Dhabi,2.31,0.111,8,0,18,322.1,1
-2016-12-08,Sainz,24,Ferrari,Singapore,2.56,0.119,15,0,0,314.0,3
-2012-12-27,Vettel,38,Mercedes,Montreal,3.279,0.194,11,0,0,330.2,3
-2012-05-25,Hamilton,21,AlphaTauri,Suzuka,2.506,0.119,13,0,0,351.2,3
-2022-07-21,Bottas,36,Alpine,Monaco,2.878,0.308,12,0,0,343.6,8
-2023-05-02,Sainz,25,Haas,Spa,2.916,0.091,4,0,22,336.5,8
-2017-03-12,Hamilton,24,Red Bull,Interlagos,3.608,0.015,6,0,20,338.9,6
-2010-05-29,Sainz,28,McLaren,Montreal,2.583,0.235,6,0,20,333.2,3
-2017-03-10,Sainz,22,Red Bull,Silverstone,3.498,0.156,4,0,22,332.8,3
-2011-09-18,Leclerc,19,AlphaTauri,Suzuka,3.406,0.136,4,0,22,334.7,4
-2013-10-30,Verstappen,22,Williams,Silverstone,2.921,0.31,7,0,19,330.9,6
-2022-06-16,Ricciardo,33,Alfa Romeo,Monza,3.725,0.129,11,0,0,328.6,5
-2011-12-25,Leclerc,33,Williams,Abu Dhabi,2.445,0.122,3,0,23,338.3,4
-2011-01-22,Norris,29,AlphaTauri,Silverstone,2.089,0.043,6,0,20,319.2,2
-2022-04-07,Alonso,19,Ferrari,Interlagos,2.809,0.053,10,0,16,308.3,5
-2018-12-28,Hamilton,32,Alfa Romeo,Suzuka,3.603,0.044,11,0,0,333.2,8
-2016-03-28,Perez,26,Williams,Monaco,3.636,0.125,4,0,22,334.2,5
-2016-04-27,Bottas,27,Alpine,Silverstone,3.313,0.12,18,1,0,346.5,4
-2014-07-08,Perez,26,Alfa Romeo,Singapore,3.052,0.468,18,0,0,328.9,2
-2010-06-20,Alonso,33,Ferrari,Montreal,1.559,0.1,3,0,23,339.8,5
-2018-08-15,Perez,24,Ferrari,Montreal,3.35,0.03,4,0,22,322.4,7
-2015-06-07,Leclerc,26,Alfa Romeo,Melbourne,2.767,0.203,4,0,22,342.5,8
-2016-05-14,Bottas,36,Alpine,Abu Dhabi,3.595,0.049,5,0,21,345.7,8
-2013-12-13,Alonso,29,Mercedes,Monza,2.859,0.114,3,1,0,336.7,7
-2018-09-28,Alonso,18,Mercedes,Abu Dhabi,3.088,0.238,20,0,0,322.4,3
-2022-11-18,Norris,29,Alfa Romeo,Abu Dhabi,3.762,0.022,6,0,20,343.7,5
-2018-03-25,Sainz,26,AlphaTauri,Spa,2.556,0.077,15,0,0,325.7,3
-2019-11-18,Norris,27,Alpine,Montreal,2.813,0.499,3,0,23,338.7,4
-2021-07-28,Alonso,32,McLaren,Silverstone,2.679,0.31,10,0,16,319.5,5
-2019-06-27,Bottas,33,McLaren,Monza,3.401,0.045,17,0,0,331.0,7
-2020-03-25,Sainz,26,Williams,Suzuka,2.455,0.345,9,0,17,320.5,7
-2018-12-10,Hamilton,33,McLaren,Silverstone,3.197,0.146,13,0,0,318.3,11
-2023-09-19,Alonso,24,Mercedes,Spa,2.931,0.194,10,1,0,327.4,6
-2019-09-11,Norris,33,Alfa Romeo,Silverstone,3.341,0.619,16,0,0,333.4,4
-2021-01-17,Hamilton,31,Williams,Montreal,2.451,0.369,12,0,0,345.3,5
-2013-09-24,Ricciardo,28,Alpine,Interlagos,2.89,0.352,15,0,0,306.1,3
-2014-06-19,Leclerc,28,Alfa Romeo,Spa,3.108,0.581,11,1,0,334.7,3
-2011-12-08,Sainz,29,AlphaTauri,Spa,1.951,0.168,14,1,0,341.1,6
-2021-06-23,Vettel,24,Aston Martin,Montreal,3.058,0.661,17,0,0,327.8,7
-2016-11-09,Sainz,24,Mercedes,Suzuka,2.873,0.083,2,0,24,315.7,5
-2012-12-05,Hamilton,28,Williams,Spa,3.034,0.22,7,0,19,347.8,7
-2015-11-18,Hamilton,20,Haas,Monza,3.252,0.037,19,0,0,322.6,4
-2021-01-25,Hamilton,27,Mercedes,Montreal,2.684,0.358,3,0,23,339.0,8
-2013-10-05,Ricciardo,27,Mercedes,Abu Dhabi,2.295,0.584,5,0,21,329.2,4
-2014-10-05,Sainz,36,Williams,Abu Dhabi,2.928,0.624,5,1,0,325.9,2
-2015-07-21,Perez,28,Alpine,Monza,3.054,0.203,11,0,0,330.5,5
-2017-07-13,Alonso,31,Haas,Abu Dhabi,3.287,0.208,13,0,0,324.3,1
-2013-05-18,Sainz,30,Haas,Abu Dhabi,2.342,0.085,10,0,16,327.2,8
-2012-10-12,Verstappen,26,Mercedes,Suzuka,2.519,0.014,12,0,0,343.6,6
-2017-02-03,Leclerc,26,Alfa Romeo,Suzuka,2.926,0.136,11,0,0,327.0,2
-2020-05-07,Sainz,26,Red Bull,Melbourne,3.146,0.241,5,0,21,343.2,2
-2020-01-17,Sainz,24,Alpine,Montreal,3.145,0.158,6,0,20,319.0,3
-2021-05-01,Alonso,30,Red Bull,Spa,2.919,0.137,20,0,0,335.5,2
-2015-10-01,Leclerc,33,Red Bull,Abu Dhabi,2.923,0.055,15,0,0,334.9,5
-2016-02-26,Hamilton,31,Mercedes,Singapore,3.484,0.091,2,0,24,327.2,2
-2018-09-22,Hamilton,31,Alpine,Abu Dhabi,3.015,0.407,13,0,0,334.0,9
-2016-10-26,Leclerc,28,Alpine,Singapore,3.374,0.063,16,0,0,342.8,4
-2022-07-10,Perez,22,Mercedes,Monza,2.847,0.149,17,0,0,345.4,3
-2020-03-19,Norris,33,Alfa Romeo,Monaco,2.546,0.593,4,0,22,315.0,6
-2011-10-18,Leclerc,31,Red Bull,Suzuka,2.971,0.241,12,0,0,337.1,7
-2013-08-12,Bottas,26,Red Bull,Suzuka,2.733,0.218,4,0,22,325.0,6
-2012-09-18,Leclerc,30,Ferrari,Singapore,3.503,0.117,14,1,0,336.8,3
-2020-09-14,Hamilton,18,Red Bull,Monaco,2.506,0.108,15,0,0,346.8,5
-2020-01-04,Hamilton,28,Ferrari,Interlagos,3.101,0.157,19,1,0,323.1,4
-2015-08-07,Ricciardo,26,Alpine,Montreal,2.992,0.06,5,0,21,315.7,2
-2015-10-11,Leclerc,22,Red Bull,Singapore,2.892,0.047,4,0,22,343.4,4
-2021-12-13,Verstappen,22,Ferrari,Silverstone,2.099,0.019,17,0,0,318.6,3
-2018-02-20,Alonso,31,Red Bull,Monaco,3.046,0.088,10,0,16,336.5,7
-2017-08-05,Alonso,27,Red Bull,Suzuka,2.756,0.08,17,0,0,332.2,3
-2011-03-13,Vettel,21,Red Bull,Suzuka,2.493,0.031,8,0,18,318.4,3
-2010-11-21,Verstappen,28,Mercedes,Monza,3.77,0.331,7,0,19,320.8,6
-2015-07-19,Alonso,25,Red Bull,Monza,3.125,0.175,5,0,21,340.5,4
-2015-11-20,Leclerc,26,Williams,Melbourne,3.308,0.063,8,0,18,322.4,7
-2017-08-20,Perez,31,McLaren,Montreal,2.92,0.021,12,0,0,339.1,5
-2018-02-01,Vettel,22,Aston Martin,Montreal,2.029,0.106,16,0,0,335.3,3
-2018-05-28,Alonso,34,Ferrari,Monza,3.554,0.181,19,0,0,336.7,1
-2011-04-14,Bottas,26,Red Bull,Singapore,2.665,0.272,14,0,0,325.8,3
-2016-02-03,Norris,21,AlphaTauri,Silverstone,3.106,0.082,5,0,21,346.4,6
-2014-03-25,Hamilton,26,Williams,Suzuka,2.714,0.128,2,0,24,349.1,1
-2020-12-10,Vettel,23,AlphaTauri,Monaco,2.836,0.115,16,0,0,317.2,7
-2023-11-27,Alonso,23,AlphaTauri,Monaco,3.075,0.041,19,0,0,329.6,4
-2022-10-06,Perez,22,Haas,Montreal,2.833,0.09,20,0,0,338.0,4
-2014-07-19,Norris,27,McLaren,Monaco,2.802,0.171,17,0,0,342.0,4
-2012-04-20,Hamilton,19,Williams,Melbourne,2.799,0.078,2,0,24,339.3,7
-2018-09-13,Sainz,19,Aston Martin,Spa,3.354,0.01,20,0,0,321.8,9
-2020-01-29,Leclerc,29,Ferrari,Abu Dhabi,3.41,0.247,17,0,0,333.5,7
-2011-07-05,Perez,31,McLaren,Monza,2.884,0.009,7,0,19,320.1,2
-2018-04-05,Vettel,20,Red Bull,Singapore,2.714,0.001,6,0,20,334.7,3
-2012-03-08,Sainz,28,Red Bull,Montreal,2.986,0.109,16,0,0,319.4,4
-2014-11-02,Alonso,23,Red Bull,Montreal,3.094,0.049,9,0,17,328.9,7
-2019-11-28,Verstappen,30,Mercedes,Suzuka,3.202,0.327,8,0,18,327.2,8
-2010-02-04,Bottas,21,AlphaTauri,Monza,2.521,0.202,1,0,25,332.1,5
-2023-07-04,Sainz,18,Ferrari,Monaco,2.774,0.04,6,0,20,340.8,1
-2018-04-28,Norris,19,Aston Martin,Monza,3.012,0.311,10,0,16,342.3,11
-2022-10-16,Perez,28,Ferrari,Melbourne,3.248,0.265,12,0,0,350.1,2
-2017-07-26,Alonso,27,Alpine,Interlagos,3.236,0.227,2,0,24,327.5,5
-2017-12-11,Leclerc,25,Ferrari,Monza,3.254,0.004,3,1,0,335.1,3
-2010-11-10,Leclerc,36,Haas,Singapore,2.355,0.383,17,0,0,318.1,4
-2018-07-02,Norris,32,Haas,Abu Dhabi,2.564,0.16,13,1,0,329.5,6
-2021-06-07,Ricciardo,16,Aston Martin,Melbourne,2.716,0.071,8,0,18,332.4,5
-2010-07-22,Ricciardo,23,Alfa Romeo,Interlagos,3.497,0.017,16,0,0,334.7,5
-2019-03-08,Vettel,23,Ferrari,Silverstone,3.432,0.209,3,0,23,333.7,4
-2019-12-01,Bottas,24,AlphaTauri,Spa,2.075,0.552,14,0,0,336.7,5
-2023-10-14,Norris,25,Red Bull,Abu Dhabi,3.095,0.147,8,0,18,338.2,5
-2010-09-01,Perez,24,Alfa Romeo,Singapore,2.695,0.262,3,0,23,327.4,5
-2022-08-16,Hamilton,22,Mercedes,Interlagos,1.884,0.468,2,1,0,329.9,3
-2021-08-05,Perez,35,AlphaTauri,Spa,2.915,0.14,3,0,23,338.3,4
-2012-06-19,Alonso,25,AlphaTauri,Silverstone,2.528,0.266,16,0,0,326.9,4
-2022-09-07,Perez,18,Alpine,Silverstone,3.033,0.053,1,1,0,331.9,3
-2017-06-22,Perez,30,Aston Martin,Spa,3.555,0.328,14,0,0,331.4,6
-2017-11-09,Alonso,29,Red Bull,Abu Dhabi,4.156,0.151,3,0,23,330.3,7
-2012-09-25,Sainz,28,Haas,Spa,3.369,0.257,16,0,0,308.3,4
-2015-06-02,Bottas,28,Red Bull,Singapore,2.815,0.008,13,0,0,323.0,5
-2017-04-04,Ricciardo,28,Ferrari,Montreal,2.656,0.163,2,0,24,326.9,4
-2013-11-16,Perez,30,Alfa Romeo,Spa,3.239,0.052,4,0,22,331.9,2
-2010-02-21,Ricciardo,22,Alpine,Montreal,3.768,0.025,3,0,23,321.4,6
-2020-03-28,Vettel,27,Red Bull,Melbourne,3.404,0.235,13,0,0,325.8,3
-2014-05-19,Perez,21,Ferrari,Spa,2.85,0.052,10,0,16,319.8,3
-2016-12-14,Perez,25,Red Bull,Melbourne,3.565,0.138,2,1,0,332.2,6
-2014-10-27,Norris,33,Aston Martin,Interlagos,2.907,0.178,14,0,0,348.2,3
-2022-04-07,Leclerc,24,Ferrari,Melbourne,2.488,0.069,15,0,0,327.3,5
-2011-05-31,Perez,32,McLaren,Singapore,2.207,0.236,15,0,0,325.0,5
-2010-08-31,Sainz,26,Red Bull,Singapore,2.951,0.272,3,0,23,318.8,4
-2019-05-28,Alonso,28,Aston Martin,Melbourne,3.266,0.214,15,0,0,334.0,4
-2018-02-03,Leclerc,19,AlphaTauri,Abu Dhabi,3.465,0.091,14,0,0,328.1,4
-2018-08-18,Perez,19,Haas,Melbourne,2.89,0.304,18,0,0,301.8,3
-2023-11-24,Verstappen,26,Ferrari,Singapore,3.422,0.15,8,0,18,331.8,6
-2021-08-09,Perez,22,Aston Martin,Monza,3.63,0.054,5,1,0,326.7,5
-2020-07-07,Verstappen,18,AlphaTauri,Suzuka,3.565,0.262,5,0,21,327.7,5
-2011-05-09,Ricciardo,19,McLaren,Melbourne,2.65,0.012,18,0,0,334.4,3
-2017-09-03,Ricciardo,28,Ferrari,Spa,2.462,0.001,19,0,0,325.5,4
-2015-04-03,Sainz,31,McLaren,Abu Dhabi,2.499,0.268,15,0,0,318.5,3
-2022-07-10,Verstappen,27,Aston Martin,Spa,2.909,0.001,19,1,0,339.5,4
-2021-09-17,Vettel,23,Red Bull,Suzuka,2.364,0.055,5,0,21,336.6,4
-2012-03-23,Norris,16,McLaren,Monza,2.466,0.228,13,0,0,327.4,4
-2012-06-04,Norris,17,Mercedes,Singapore,2.783,0.568,8,1,0,318.5,6
-2016-12-15,Perez,32,Mercedes,Monza,3.836,0.284,9,0,17,329.3,5
-2021-03-05,Verstappen,22,Mercedes,Abu Dhabi,2.303,0.362,9,0,17,321.0,6
-2021-08-11,Vettel,24,Aston Martin,Interlagos,2.929,0.083,16,0,0,322.0,3
-2023-02-14,Ricciardo,34,Alpine,Melbourne,2.548,0.21,9,0,17,327.0,7
-2016-07-02,Vettel,29,Aston Martin,Monaco,3.157,0.025,17,0,0,338.8,6
-2015-11-11,Vettel,30,McLaren,Montreal,2.64,0.036,9,0,17,326.2,3
-2022-07-17,Sainz,19,Ferrari,Singapore,2.605,0.164,3,0,23,334.9,11
-2021-12-15,Alonso,32,Red Bull,Interlagos,3.225,0.052,13,0,0,325.1,4
-2012-12-11,Sainz,24,AlphaTauri,Melbourne,2.833,0.293,3,0,23,321.3,5
-2010-04-19,Hamilton,29,Mercedes,Suzuka,3.387,0.069,18,0,0,344.1,5
-2020-10-01,Ricciardo,27,Mercedes,Melbourne,2.546,0.093,10,0,16,338.0,7
-2010-04-09,Sainz,24,Alpine,Montreal,2.895,0.15,11,0,0,306.3,3
-2017-08-23,Perez,32,Ferrari,Singapore,4.185,0.021,4,0,22,332.2,7
-2018-04-15,Bottas,33,Ferrari,Singapore,2.589,0.1,16,0,0,334.4,2
-2018-01-27,Sainz,19,Alfa Romeo,Suzuka,2.307,0.453,8,0,18,323.6,6
-2020-03-01,Verstappen,20,Alpine,Suzuka,2.892,0.193,9,0,17,325.0,7
-2017-09-04,Ricciardo,31,Alpine,Montreal,2.631,0.061,17,0,0,336.8,9
-2022-08-21,Norris,25,Ferrari,Spa,2.699,0.14,7,0,19,329.5,4
-2018-01-22,Hamilton,31,AlphaTauri,Suzuka,3.043,0.018,5,0,21,329.1,5
-2016-07-18,Sainz,27,Alfa Romeo,Interlagos,3.055,0.003,20,1,0,336.9,6
-2022-11-08,Leclerc,34,Ferrari,Melbourne,2.861,0.046,8,0,18,320.6,6
-2017-07-07,Norris,33,Aston Martin,Suzuka,2.94,0.103,18,0,0,322.7,5
-2018-02-27,Alonso,32,Haas,Interlagos,3.161,0.32,8,1,0,316.0,6
-2014-12-15,Bottas,34,Red Bull,Interlagos,3.23,0.01,4,0,22,324.6,3
-2020-04-25,Leclerc,18,McLaren,Suzuka,2.411,0.058,20,0,0,333.9,4
-2021-03-29,Sainz,26,McLaren,Melbourne,2.645,0.198,12,0,0,332.6,5
-2018-11-12,Perez,38,Aston Martin,Montreal,2.831,0.105,17,0,0,325.6,6
-2020-11-06,Norris,26,McLaren,Melbourne,2.658,0.245,12,1,0,320.6,6
-2013-10-19,Ricciardo,30,Mercedes,Interlagos,2.794,0.283,6,0,20,339.1,7
-2021-12-25,Perez,25,Aston Martin,Abu Dhabi,2.637,0.239,17,0,0,333.0,3
-2023-10-30,Hamilton,27,Williams,Suzuka,2.701,0.017,6,0,20,330.5,5
-2020-03-04,Leclerc,22,Red Bull,Interlagos,1.777,0.045,18,1,0,342.1,6
-2021-11-06,Perez,27,Williams,Spa,2.855,0.011,17,0,0,336.1,4
-2010-03-05,Ricciardo,31,McLaren,Singapore,2.54,0.152,11,0,0,334.9,6
-2014-03-22,Ricciardo,24,AlphaTauri,Monaco,2.304,0.103,4,0,22,324.7,4
-2014-08-31,Verstappen,33,Aston Martin,Suzuka,2.892,0.038,9,1,0,346.3,7
-2022-11-11,Bottas,29,McLaren,Suzuka,2.806,0.086,14,0,0,319.1,6
-2014-12-28,Bottas,20,Alpine,Montreal,3.299,0.003,9,0,17,336.4,4
-2020-09-19,Perez,27,AlphaTauri,Suzuka,2.915,0.188,15,0,0,320.9,3
-2015-02-09,Perez,20,AlphaTauri,Melbourne,2.994,0.059,2,0,24,316.6,7
-2011-07-20,Bottas,28,Red Bull,Silverstone,3.272,0.014,4,1,0,320.5,4
-2015-12-26,Leclerc,23,AlphaTauri,Spa,2.939,0.097,19,0,0,333.6,4
-2022-01-23,Bottas,28,AlphaTauri,Melbourne,2.813,0.089,17,0,0,321.9,2
-2015-07-14,Vettel,26,Alfa Romeo,Spa,3.629,0.221,13,0,0,330.0,1
-2011-12-04,Norris,20,Mercedes,Montreal,3.562,0.76,7,0,19,336.8,6
-2011-03-27,Hamilton,39,Mercedes,Silverstone,2.573,0.591,7,0,19,312.0,1
-2018-12-15,Verstappen,27,Mercedes,Silverstone,2.699,0.026,13,1,0,335.2,4
-2017-10-24,Bottas,24,Ferrari,Melbourne,3.458,0.073,17,1,0,324.9,5
-2022-07-04,Vettel,22,Aston Martin,Monza,3.648,0.005,9,0,17,310.0,5
-2012-04-07,Perez,30,AlphaTauri,Monza,2.952,0.508,9,0,17,326.5,8
-2017-11-08,Hamilton,27,Aston Martin,Silverstone,2.794,0.285,5,0,21,335.8,3
-2020-08-26,Norris,28,Haas,Melbourne,2.765,0.287,4,0,22,330.4,7
-2022-07-19,Sainz,22,AlphaTauri,Monaco,3.043,0.129,8,0,18,316.6,2
-2017-10-23,Perez,26,Ferrari,Monza,2.712,0.122,12,0,0,333.3,3
-2020-07-20,Bottas,35,Haas,Montreal,2.32,0.824,11,0,0,318.8,3
-2018-07-24,Verstappen,36,Red Bull,Montreal,2.764,0.074,3,0,23,336.0,6
-2011-05-23,Norris,26,Mercedes,Interlagos,3.43,0.037,6,0,20,305.9,8
-2017-06-01,Norris,27,Ferrari,Singapore,3.042,0.246,14,0,0,327.5,3
-2015-06-20,Perez,27,Ferrari,Melbourne,2.95,0.305,1,0,25,346.2,9
-2018-09-11,Alonso,24,Alpine,Melbourne,3.388,0.152,15,0,0,343.6,8
-2021-05-20,Vettel,31,Mercedes,Interlagos,2.988,0.573,3,1,0,327.0,6
-2019-08-31,Leclerc,27,Alpine,Spa,3.665,0.007,17,1,0,340.2,4
-2018-08-10,Bottas,30,Alpine,Montreal,2.742,0.165,11,0,0,319.4,3
-2021-09-02,Vettel,28,AlphaTauri,Abu Dhabi,2.979,0.061,20,0,0,333.6,4
-2020-10-05,Hamilton,23,Aston Martin,Monaco,3.05,0.024,13,0,0,322.3,2
-2011-11-15,Bottas,23,Red Bull,Spa,3.428,0.062,2,1,0,326.1,3
-2012-03-22,Leclerc,28,Mercedes,Suzuka,3.635,0.264,9,0,17,332.6,3
-2023-01-31,Alonso,34,Red Bull,Monaco,2.934,0.167,1,1,0,341.3,7
-2020-09-20,Bottas,22,Red Bull,Melbourne,3.253,0.734,14,0,0,313.8,5
-2018-02-09,Norris,28,McLaren,Melbourne,3.637,0.265,16,0,0,329.0,5
-2015-12-16,Ricciardo,32,Williams,Montreal,3.676,0.258,7,0,19,310.7,5
-2016-05-05,Bottas,32,Ferrari,Montreal,2.595,0.014,10,0,16,338.9,4
-2015-06-30,Verstappen,34,Williams,Montreal,2.649,0.112,16,0,0,321.2,2
-2010-12-02,Bottas,28,Alpine,Monaco,3.264,0.176,15,1,0,304.9,4
-2019-02-12,Vettel,33,McLaren,Monza,3.004,1.019,6,0,20,329.7,4
-2022-05-01,Bottas,34,Alpine,Monza,2.0,0.356,4,0,22,328.0,4
-2015-02-06,Ricciardo,29,Alpine,Silverstone,3.046,0.021,17,0,0,326.4,11
-2021-09-28,Norris,32,Red Bull,Montreal,2.745,0.059,2,0,24,325.8,7
-2015-11-30,Ricciardo,22,Red Bull,Interlagos,2.759,0.205,11,0,0,306.9,3
-2010-11-30,Sainz,32,Ferrari,Monza,3.453,0.052,5,0,21,318.5,2
-2021-04-13,Bottas,19,Red Bull,Abu Dhabi,3.212,0.299,12,0,0,326.8,7
-2014-08-15,Perez,33,Mercedes,Melbourne,2.772,0.076,1,0,25,328.6,5
-2012-04-06,Ricciardo,29,McLaren,Monaco,2.347,0.024,14,0,0,320.8,3
-2013-01-02,Perez,26,Ferrari,Monaco,2.128,0.555,14,0,0,342.3,7
-2022-03-13,Verstappen,26,McLaren,Spa,2.874,0.872,18,0,0,313.1,0
-2023-10-29,Ricciardo,27,Aston Martin,Singapore,3.501,0.086,3,0,23,333.6,3
-2013-04-21,Ricciardo,31,Williams,Montreal,3.836,0.265,1,0,25,316.1,4
-2023-11-26,Perez,29,Red Bull,Singapore,3.008,0.49,11,0,0,330.7,8
-2011-10-21,Sainz,31,AlphaTauri,Montreal,2.356,0.159,5,0,21,309.6,3
-2021-06-12,Hamilton,25,Mercedes,Interlagos,3.062,0.226,17,1,0,330.2,4
-2019-10-03,Hamilton,31,Alfa Romeo,Silverstone,3.954,0.107,9,0,17,333.7,4
-2017-10-24,Alonso,32,Williams,Silverstone,1.5,0.032,14,0,0,334.0,5
-2011-05-08,Hamilton,35,Red Bull,Abu Dhabi,3.301,0.091,14,0,0,316.3,2
-2015-08-22,Sainz,35,Williams,Melbourne,2.341,0.44,15,0,0,322.2,4
-2011-12-31,Norris,24,Alpine,Suzuka,2.853,0.126,14,0,0,328.3,5
-2012-07-05,Norris,26,Red Bull,Spa,2.717,0.022,7,0,19,313.3,8
-2021-01-12,Norris,32,Mercedes,Spa,3.008,0.092,12,0,0,336.1,4
-2010-05-27,Sainz,31,Ferrari,Silverstone,3.368,0.216,6,0,20,319.4,3
-2022-01-23,Perez,29,Red Bull,Monza,2.536,0.034,7,0,19,338.9,9
-2017-01-18,Hamilton,30,McLaren,Interlagos,2.551,0.362,12,0,0,308.6,3
-2022-12-11,Norris,17,McLaren,Suzuka,3.581,0.395,11,0,0,340.0,2
-2016-11-13,Sainz,38,AlphaTauri,Abu Dhabi,3.669,0.271,13,0,0,329.3,6
-2018-11-10,Vettel,31,AlphaTauri,Montreal,2.664,0.104,4,0,22,335.8,4
-2019-04-12,Sainz,26,McLaren,Monza,2.852,0.448,13,0,0,333.1,9
-2012-02-13,Alonso,24,Haas,Abu Dhabi,3.036,0.08,16,0,0,341.0,2
-2011-07-06,Perez,35,Alfa Romeo,Interlagos,2.239,0.051,5,0,21,331.5,8
-2020-09-28,Ricciardo,26,Aston Martin,Monaco,3.558,0.452,17,0,0,319.1,5
-2013-02-24,Norris,24,Alpine,Monza,2.619,0.116,16,0,0,317.4,10
-2014-11-26,Ricciardo,30,Alpine,Suzuka,2.632,0.008,13,0,0,312.9,9
-2023-07-03,Ricciardo,21,Red Bull,Silverstone,2.903,0.277,2,0,24,334.1,3
-2013-04-28,Sainz,30,Ferrari,Montreal,2.324,0.597,16,0,0,335.3,5
-2013-08-30,Vettel,25,Red Bull,Singapore,2.729,0.328,6,0,20,337.2,7
-2023-11-30,Norris,24,Haas,Interlagos,2.255,0.134,7,0,19,324.4,2
-2017-05-09,Bottas,18,AlphaTauri,Singapore,2.254,0.222,1,0,25,326.0,6
-2014-08-12,Verstappen,33,Alfa Romeo,Suzuka,3.326,0.013,6,0,20,331.0,3
-2017-12-29,Ricciardo,35,Mercedes,Monza,2.573,0.362,11,1,0,339.8,4
-2022-12-26,Verstappen,17,Alfa Romeo,Spa,3.978,0.234,4,1,0,315.3,4
-2013-11-07,Vettel,34,AlphaTauri,Suzuka,2.917,0.526,20,0,0,325.1,5
-2017-06-21,Verstappen,35,Mercedes,Suzuka,3.088,0.171,15,1,0,314.2,6
-2013-09-10,Ricciardo,30,Haas,Monza,2.576,0.228,3,0,23,300.2,5
-2017-09-13,Verstappen,23,Alfa Romeo,Singapore,2.131,0.065,18,0,0,348.1,4
-2014-08-04,Vettel,25,Alpine,Interlagos,3.142,0.051,14,0,0,313.9,6
-2022-05-30,Ricciardo,26,Alfa Romeo,Montreal,3.265,0.451,11,0,0,344.0,5
-2013-12-08,Alonso,28,Red Bull,Abu Dhabi,2.427,0.741,10,0,16,342.3,6
-2014-03-17,Norris,37,McLaren,Silverstone,2.699,0.369,3,1,0,347.7,6
-2018-08-26,Leclerc,24,Haas,Melbourne,4.03,0.172,7,0,19,329.5,4
-2020-07-10,Vettel,29,Haas,Suzuka,3.652,0.089,18,0,0,346.8,8
-2020-10-10,Norris,28,Williams,Monaco,2.272,0.35,13,0,0,319.6,7
-2019-08-25,Norris,34,Aston Martin,Monza,2.483,0.038,1,0,25,337.8,3
-2010-02-27,Verstappen,29,Haas,Monza,2.512,0.059,6,0,20,343.4,3
-2013-06-15,Vettel,18,Mercedes,Monza,2.582,0.241,11,0,0,322.3,3
-2023-09-04,Verstappen,25,Alpine,Interlagos,2.456,0.174,6,0,20,336.2,3
-2012-09-21,Verstappen,30,AlphaTauri,Interlagos,2.819,0.146,16,0,0,323.6,3
-2012-09-06,Hamilton,30,McLaren,Montreal,3.847,0.056,2,0,24,343.3,6
-2012-05-12,Verstappen,31,Mercedes,Interlagos,2.43,0.391,16,1,0,332.6,6
-2023-01-07,Perez,25,McLaren,Singapore,3.083,0.167,17,0,0,316.0,6
-2019-11-03,Hamilton,32,Williams,Silverstone,3.152,0.428,16,0,0,328.3,4
-2023-06-06,Bottas,22,AlphaTauri,Spa,3.432,0.166,19,0,0,327.5,6
-2019-02-12,Sainz,28,Ferrari,Abu Dhabi,2.184,0.163,6,0,20,324.3,3
-2016-09-03,Bottas,22,Mercedes,Silverstone,2.891,0.012,6,0,20,335.5,4
-2015-04-04,Perez,25,Ferrari,Suzuka,2.691,0.27,8,0,18,338.6,5
-2014-03-17,Bottas,33,AlphaTauri,Singapore,3.711,0.614,20,0,0,323.2,3
-2014-12-17,Vettel,29,McLaren,Interlagos,3.627,0.549,6,0,20,327.7,5
-2015-07-02,Sainz,31,AlphaTauri,Melbourne,2.723,0.027,14,0,0,316.1,3
-2014-05-11,Leclerc,25,Haas,Abu Dhabi,2.872,0.242,7,0,19,339.5,5
-2021-06-09,Alonso,29,Mercedes,Melbourne,2.537,0.718,9,0,17,341.5,5
-2012-07-24,Hamilton,30,AlphaTauri,Melbourne,3.145,0.012,4,0,22,323.4,2
-2018-04-10,Alonso,32,Williams,Melbourne,3.52,0.087,10,0,16,324.7,7
-2012-01-06,Vettel,31,AlphaTauri,Montreal,2.583,0.017,9,0,17,338.6,7
-2014-04-03,Sainz,31,Alpine,Monza,1.859,0.001,9,1,0,340.2,6
-2020-11-22,Norris,23,Red Bull,Interlagos,3.537,0.015,6,0,20,331.6,5
-2014-08-09,Leclerc,24,AlphaTauri,Montreal,3.716,0.04,7,1,0,326.3,2
-2020-11-09,Ricciardo,27,Mercedes,Monza,3.524,0.115,4,0,22,319.2,4
-2014-01-24,Bottas,35,Ferrari,Abu Dhabi,3.419,0.039,16,0,0,315.8,5
-2015-09-24,Sainz,15,Alfa Romeo,Silverstone,3.462,0.111,1,0,25,343.6,4
-2019-12-21,Alonso,21,Alfa Romeo,Suzuka,2.864,0.418,15,0,0,329.8,3
-2013-04-29,Ricciardo,30,Alpine,Silverstone,2.706,0.073,9,0,17,321.5,5
-2022-01-01,Leclerc,29,Aston Martin,Singapore,2.816,0.072,14,0,0,335.9,6
-2022-05-09,Alonso,27,Williams,Interlagos,3.73,0.08,1,0,25,340.2,4
-2018-08-13,Hamilton,33,McLaren,Abu Dhabi,2.899,0.157,3,0,23,321.9,6
-2022-06-09,Vettel,28,Mercedes,Interlagos,2.084,0.301,11,0,0,333.9,4
-2015-07-20,Verstappen,22,Alpine,Monza,2.386,0.178,7,0,19,328.3,1
-2021-01-01,Ricciardo,28,Mercedes,Melbourne,2.838,0.053,1,0,25,341.2,6
-2011-07-15,Bottas,26,McLaren,Monza,3.649,0.146,6,0,20,341.6,7
-2011-04-06,Ricciardo,36,Aston Martin,Abu Dhabi,2.264,0.021,2,0,24,308.1,9
-2012-05-11,Norris,28,Alfa Romeo,Singapore,2.81,0.21,7,0,19,337.8,6
-2016-07-25,Vettel,36,Red Bull,Suzuka,2.591,0.111,13,0,0,332.0,6
-2015-09-16,Verstappen,30,Mercedes,Montreal,3.574,0.018,13,0,0,326.7,5
-2020-04-10,Alonso,31,Mercedes,Singapore,2.215,0.151,20,0,0,325.4,11
-2017-05-10,Norris,30,Alpine,Monaco,3.105,0.221,9,0,17,325.6,3
-2020-11-26,Hamilton,33,Haas,Singapore,2.756,0.13,18,0,0,317.2,5
-2018-07-30,Perez,28,Aston Martin,Interlagos,3.082,0.181,12,0,0,335.8,6
-2013-02-02,Leclerc,25,Haas,Silverstone,3.507,0.226,13,0,0,316.8,8
-2011-09-18,Sainz,21,Alpine,Monza,3.109,0.063,14,0,0,324.8,2
-2022-09-18,Vettel,36,AlphaTauri,Monaco,2.067,0.14,6,0,20,332.0,8
-2013-07-18,Norris,33,Alfa Romeo,Melbourne,2.124,0.459,4,0,22,339.7,5
-2012-02-07,Perez,24,Alfa Romeo,Monza,3.333,0.078,17,0,0,323.4,2
-2019-02-07,Alonso,30,Williams,Interlagos,2.431,0.166,10,0,16,330.8,3
-2015-11-20,Verstappen,27,AlphaTauri,Abu Dhabi,2.906,0.269,18,0,0,330.3,7
-2020-01-30,Verstappen,27,McLaren,Singapore,2.66,0.097,4,0,22,336.1,2
-2019-05-19,Leclerc,24,Ferrari,Montreal,3.169,0.188,12,0,0,316.3,4
-2019-10-29,Alonso,38,AlphaTauri,Spa,3.245,0.442,11,1,0,332.5,7
-2014-02-09,Alonso,25,Haas,Silverstone,2.538,0.017,16,0,0,342.9,8
-2019-02-03,Verstappen,18,Haas,Suzuka,3.679,0.043,6,0,20,322.8,6
-2013-09-18,Leclerc,33,Ferrari,Abu Dhabi,3.32,0.067,8,0,18,321.1,5
-2012-05-16,Ricciardo,24,Mercedes,Montreal,2.87,0.045,17,0,0,321.2,3
-2012-06-30,Ricciardo,29,AlphaTauri,Montreal,3.156,0.09,11,0,0,327.6,5
-2016-10-21,Alonso,31,Haas,Montreal,2.251,0.051,11,0,0,328.4,5
-2011-04-30,Perez,29,Haas,Spa,2.867,0.501,9,1,0,326.2,6
-2016-03-21,Ricciardo,33,Williams,Montreal,1.998,0.044,5,1,0,329.5,3
-2012-09-09,Perez,32,AlphaTauri,Suzuka,2.875,0.033,2,0,24,310.1,8
-2022-06-15,Sainz,30,Aston Martin,Silverstone,3.037,0.104,19,0,0,324.3,6
-2016-03-14,Leclerc,27,Mercedes,Monza,2.751,0.22,12,0,0,330.1,4
-2017-01-26,Leclerc,25,McLaren,Singapore,2.889,0.178,13,0,0,332.3,7
-2022-04-28,Sainz,20,Red Bull,Singapore,3.71,0.009,8,0,18,316.7,2
-2021-04-25,Leclerc,32,Aston Martin,Montreal,2.772,0.054,4,0,22,321.1,3
-2014-12-04,Alonso,25,Haas,Monza,3.022,0.36,5,0,21,330.4,3
-2019-03-30,Hamilton,21,Alfa Romeo,Monza,3.817,0.179,7,0,19,315.9,0
-2020-12-12,Alonso,31,Haas,Spa,2.788,0.387,9,0,17,338.8,6
-2011-12-10,Ricciardo,27,Haas,Montreal,3.128,0.016,3,0,23,332.4,6
-2017-03-13,Sainz,23,Alfa Romeo,Interlagos,2.656,0.029,4,1,0,340.1,11
-2021-12-15,Norris,25,Aston Martin,Monza,3.506,0.016,6,0,20,338.2,6
-2014-10-07,Verstappen,27,Haas,Spa,3.709,0.195,2,0,24,329.0,5
-2010-01-14,Alonso,28,Aston Martin,Melbourne,3.396,0.674,7,0,19,337.2,7
-2017-12-07,Alonso,17,McLaren,Interlagos,2.806,0.019,18,0,0,314.4,2
-2016-03-11,Norris,19,Red Bull,Monza,2.899,0.102,12,0,0,315.5,2
-2010-07-09,Alonso,33,Haas,Monaco,3.122,0.038,2,0,24,315.8,5
-2017-11-23,Hamilton,35,Alpine,Monaco,3.058,0.009,1,0,25,320.9,4
-2017-11-14,Norris,33,McLaren,Montreal,3.531,0.234,10,0,16,325.1,4
-2018-02-06,Norris,15,Red Bull,Melbourne,2.92,0.475,1,0,25,346.5,3
-2011-03-17,Vettel,32,Red Bull,Abu Dhabi,2.721,0.072,12,0,0,344.2,6
-2014-07-02,Ricciardo,27,Aston Martin,Interlagos,2.853,0.086,8,0,18,337.0,4
-2015-03-24,Verstappen,22,Ferrari,Abu Dhabi,2.521,0.001,9,0,17,345.9,5
-2018-05-15,Sainz,26,Red Bull,Suzuka,2.089,0.012,17,0,0,352.0,5
-2019-12-17,Sainz,22,Haas,Interlagos,3.024,0.248,18,0,0,328.7,5
-2013-10-20,Sainz,23,Ferrari,Abu Dhabi,3.488,0.152,11,0,0,336.0,3
-2023-09-01,Norris,28,Mercedes,Spa,2.744,0.286,15,0,0,334.6,6
-2014-05-15,Alonso,29,Mercedes,Melbourne,2.298,0.04,3,0,23,318.6,8
-2019-09-10,Norris,30,Haas,Monaco,2.817,0.216,18,0,0,328.8,9
-2012-10-26,Hamilton,31,AlphaTauri,Spa,4.007,0.165,3,0,23,325.5,6
-2013-09-07,Leclerc,26,Red Bull,Silverstone,3.971,0.71,19,0,0,310.0,10
-2010-01-05,Bottas,28,Williams,Abu Dhabi,2.862,0.03,5,0,21,336.8,3
-2013-05-12,Hamilton,24,AlphaTauri,Interlagos,2.888,0.052,14,0,0,334.3,5
-2022-05-29,Alonso,25,Red Bull,Monaco,1.814,0.165,6,0,20,331.1,6
-2016-01-04,Hamilton,31,Ferrari,Interlagos,4.307,0.451,18,0,0,327.1,7
-2021-06-01,Alonso,23,Mercedes,Montreal,2.806,0.513,3,0,23,329.4,4
-2010-10-21,Norris,26,Red Bull,Montreal,3.212,0.718,11,0,0,322.8,2
-2016-08-16,Ricciardo,31,Red Bull,Silverstone,2.824,0.58,3,0,23,331.4,2
-2013-12-31,Alonso,30,Ferrari,Abu Dhabi,3.646,0.124,16,0,0,335.0,7
-2011-11-25,Leclerc,25,Williams,Melbourne,3.468,0.423,12,0,0,337.8,3
-2011-07-14,Perez,27,Alpine,Singapore,3.277,0.012,12,0,0,337.2,13
-2021-04-21,Hamilton,22,Alfa Romeo,Spa,2.256,0.043,16,0,0,328.0,6
-2014-05-20,Leclerc,25,Williams,Montreal,3.6,0.272,9,0,17,327.1,11
-2011-02-08,Alonso,27,Mercedes,Monza,2.718,0.094,1,0,25,330.5,4
-2022-09-06,Hamilton,35,Alpine,Montreal,2.881,0.161,5,0,21,334.9,9
-2016-04-06,Bottas,24,Aston Martin,Montreal,3.342,0.011,18,0,0,333.6,4
-2010-02-15,Sainz,31,Ferrari,Spa,3.183,0.018,14,0,0,327.3,8
-2018-08-12,Bottas,22,Alpine,Abu Dhabi,3.16,0.194,18,0,0,324.9,5
-2014-02-13,Leclerc,36,Red Bull,Monaco,3.328,0.037,17,0,0,333.3,4
-2017-10-29,Sainz,25,Haas,Interlagos,2.685,0.046,13,0,0,343.4,11
-2015-05-17,Norris,25,Alfa Romeo,Suzuka,2.545,0.261,19,0,0,325.1,4
-2023-02-19,Alonso,22,Williams,Suzuka,3.23,0.452,16,0,0,338.5,8
-2019-08-02,Leclerc,26,Ferrari,Monaco,3.134,0.24,2,0,24,331.9,9
-2018-07-26,Norris,34,McLaren,Montreal,2.373,0.042,9,0,17,318.4,4
-2019-01-07,Bottas,26,Alpine,Interlagos,3.166,0.104,2,0,24,324.0,4
-2021-11-13,Hamilton,25,Haas,Montreal,4.064,0.017,11,0,0,322.7,6
-2015-03-30,Vettel,32,McLaren,Interlagos,3.544,0.02,3,1,0,330.2,11
-2017-06-30,Sainz,21,Red Bull,Monaco,3.039,0.075,13,0,0,326.5,6
-2011-04-01,Sainz,19,Haas,Interlagos,2.858,0.153,16,0,0,338.2,3
-2010-05-04,Alonso,36,Williams,Monaco,3.648,0.083,2,1,0,317.9,5
-2023-01-18,Verstappen,26,Alpine,Silverstone,2.751,0.057,7,0,19,340.4,5
-2011-09-02,Verstappen,18,Alfa Romeo,Interlagos,2.517,0.035,14,1,0,350.6,0
-2023-08-20,Alonso,23,McLaren,Interlagos,3.486,0.315,15,0,0,324.2,11
-2015-07-30,Verstappen,29,Williams,Interlagos,3.236,0.014,12,1,0,320.1,6
-2010-05-12,Verstappen,32,Alpine,Abu Dhabi,2.806,0.151,20,0,0,341.2,4
-2010-09-08,Alonso,23,Haas,Montreal,2.689,0.172,1,1,0,352.1,6
-2010-02-14,Norris,33,Williams,Interlagos,4.273,0.158,10,0,16,329.7,7
-2018-07-24,Bottas,27,Aston Martin,Abu Dhabi,3.534,0.003,7,0,19,318.3,5
-2020-07-24,Norris,27,Aston Martin,Melbourne,2.577,0.354,15,0,0,312.4,5
-2021-11-10,Vettel,32,Alpine,Monza,2.304,0.164,17,0,0,331.5,2
-2015-04-05,Bottas,33,McLaren,Montreal,2.75,0.203,5,0,21,323.7,10
-2012-07-11,Leclerc,29,McLaren,Spa,2.517,0.17,9,0,17,355.2,4
-2016-05-12,Hamilton,33,Haas,Singapore,3.628,0.12,16,0,0,338.2,5
-2017-03-31,Vettel,15,Aston Martin,Monza,3.457,0.284,19,1,0,333.2,5
-2018-04-09,Ricciardo,33,McLaren,Abu Dhabi,2.733,0.095,3,0,23,335.1,9
-2012-07-02,Alonso,31,Alfa Romeo,Suzuka,2.877,0.489,7,0,19,332.3,6
-2023-06-25,Verstappen,26,Williams,Abu Dhabi,3.086,0.13,5,0,21,325.1,5
-2015-10-24,Perez,28,McLaren,Monza,3.143,0.113,20,0,0,306.5,5
-2015-09-14,Bottas,19,McLaren,Melbourne,3.411,0.189,4,0,22,332.1,5
-2022-05-21,Norris,22,Ferrari,Silverstone,2.804,0.145,19,0,0,339.9,8
-2011-03-29,Bottas,25,Haas,Interlagos,2.579,0.414,6,0,20,322.0,9
-2021-04-22,Ricciardo,40,Haas,Monza,2.392,0.275,11,0,0,337.2,8
-2015-05-16,Sainz,24,Mercedes,Silverstone,3.003,0.093,1,0,25,329.4,5
+2016-09-10,Perez,35,Williams,Melbourne,2.651,0.054,9,0,17,330.6,10
+2023-02-16,Alonso,26,Alpine,Silverstone,2.55,0.47,6,0,20,314.4,10
+2010-01-12,Ricciardo,31,Williams,Melbourne,3.187,0.186,12,0,0,330.4,5
+2022-12-05,Ricciardo,26,Williams,Spa,3.358,0.531,12,0,0,303.2,2
+2018-07-18,Bottas,26,Ferrari,Montreal,3.18,0.005,6,0,20,330.9,8
+2014-05-26,Bottas,34,Red Bull,Silverstone,2.653,0.338,6,0,20,316.6,6
+2010-10-12,Alonso,29,Mercedes,Singapore,2.337,0.407,8,0,18,330.7,5
+2021-10-05,Norris,31,Williams,Monaco,2.53,0.138,3,0,23,353.7,4
+2013-05-26,Norris,25,Haas,Spa,3.542,0.032,16,0,0,334.2,5
+2018-09-10,Vettel,26,Haas,Monaco,3.057,0.065,6,1,0,345.7,7
+2015-08-15,Verstappen,22,Haas,Interlagos,3.366,0.309,6,0,20,331.2,7
+2010-12-14,Hamilton,33,Haas,Montreal,2.533,0.099,7,1,0,328.8,7
+2013-08-31,Perez,25,Aston Martin,Monaco,3.295,0.486,2,0,24,330.4,4
+2020-11-04,Vettel,23,Haas,Montreal,3.667,0.787,5,0,21,338.2,3
+2023-03-31,Leclerc,28,McLaren,Silverstone,3.001,0.092,5,0,21,342.1,8
+2011-08-21,Hamilton,32,Alfa Romeo,Monza,2.846,0.054,16,0,0,322.7,14
+2015-01-30,Perez,30,Mercedes,Singapore,3.244,0.102,8,0,18,333.3,5
+2020-07-11,Leclerc,22,AlphaTauri,Monza,2.133,0.058,16,0,0,331.8,13
+2016-12-07,Vettel,26,McLaren,Silverstone,2.769,0.058,1,0,25,336.2,9
+2012-10-05,Sainz,21,Aston Martin,Melbourne,3.713,0.058,9,1,0,330.5,7
+2014-11-10,Bottas,27,Mercedes,Interlagos,3.4,0.224,2,0,24,320.9,2
+2020-01-24,Alonso,32,Aston Martin,Suzuka,3.187,0.084,18,0,0,334.5,4
+2023-08-08,Vettel,21,McLaren,Montreal,2.646,0.018,8,0,18,317.8,1
+2011-07-25,Alonso,26,Haas,Suzuka,2.972,0.239,11,0,0,324.9,7
+2011-01-10,Hamilton,26,Aston Martin,Interlagos,3.995,0.029,13,0,0,331.3,3
+2013-06-17,Bottas,33,Aston Martin,Silverstone,2.373,0.044,10,1,0,324.3,8
+2021-04-29,Ricciardo,21,Ferrari,Monza,2.988,0.234,15,0,0,336.8,9
+2016-11-23,Bottas,24,McLaren,Silverstone,2.171,0.003,3,0,23,339.2,8
+2010-05-17,Leclerc,25,Haas,Interlagos,3.199,0.131,7,0,19,327.3,4
+2023-08-31,Perez,30,AlphaTauri,Abu Dhabi,3.223,0.107,4,0,22,321.8,8
+2015-03-19,Bottas,25,Red Bull,Monaco,3.127,0.372,3,0,23,348.5,2
+2012-02-17,Verstappen,23,Aston Martin,Montreal,2.619,0.199,16,0,0,330.7,3
+2016-09-18,Vettel,22,Red Bull,Abu Dhabi,2.573,0.388,12,1,0,328.7,5
+2019-09-07,Norris,29,McLaren,Interlagos,3.15,0.192,19,0,0,315.1,10
+2020-12-08,Ricciardo,31,Red Bull,Silverstone,3.172,0.12,8,1,0,316.1,6
+2010-02-03,Sainz,35,Ferrari,Suzuka,3.304,0.563,12,0,0,340.4,3
+2020-03-25,Ricciardo,35,Ferrari,Monaco,3.2,1.917,15,0,0,325.9,3
+2014-04-01,Ricciardo,23,Williams,Spa,3.144,0.027,7,0,19,333.6,2
+2019-05-22,Alonso,30,Alpine,Melbourne,2.669,0.191,5,0,21,334.0,2
+2017-06-21,Vettel,29,Haas,Spa,3.159,0.012,3,1,0,335.5,7
+2012-04-02,Vettel,28,Haas,Interlagos,3.55,0.101,1,0,25,354.8,6
+2012-02-29,Sainz,32,Alpine,Monaco,2.738,0.184,13,0,0,341.6,2
+2023-04-04,Sainz,37,Alfa Romeo,Singapore,2.907,0.077,19,0,0,330.8,1
+2017-02-19,Bottas,31,Aston Martin,Suzuka,3.25,0.214,3,0,23,324.9,5
+2010-10-20,Vettel,36,Alfa Romeo,Suzuka,2.704,0.069,19,0,0,320.6,4
+2018-09-04,Leclerc,30,Red Bull,Abu Dhabi,2.839,0.018,18,0,0,331.8,4
+2012-08-02,Perez,36,Red Bull,Silverstone,2.588,0.106,13,0,0,321.3,4
+2019-10-25,Alonso,36,Red Bull,Abu Dhabi,3.29,0.163,7,1,0,325.0,7
+2016-02-07,Sainz,18,AlphaTauri,Abu Dhabi,3.51,0.082,13,0,0,337.7,9
+2017-08-07,Vettel,28,Williams,Montreal,2.816,0.713,16,0,0,325.6,4
+2011-04-03,Vettel,36,Alfa Romeo,Melbourne,3.217,0.441,20,1,0,323.6,8
+2015-05-18,Hamilton,19,AlphaTauri,Melbourne,3.066,0.025,19,0,0,334.9,6
+2021-01-28,Perez,21,Mercedes,Spa,3.373,0.718,13,1,0,327.4,6
+2010-03-13,Verstappen,19,Haas,Singapore,2.876,0.126,20,0,0,344.9,2
+2023-01-07,Ricciardo,25,Alpine,Interlagos,2.911,0.431,4,0,22,328.2,7
+2019-07-20,Perez,24,Williams,Montreal,3.072,0.261,18,0,0,318.6,5
+2015-12-18,Norris,32,Aston Martin,Interlagos,3.08,0.074,14,0,0,319.7,3
+2019-07-05,Norris,32,Mercedes,Silverstone,4.278,0.097,19,0,0,333.7,2
+2016-11-11,Bottas,37,Mercedes,Silverstone,3.2,0.075,1,0,25,348.6,12
+2014-12-29,Bottas,29,AlphaTauri,Suzuka,2.594,0.056,1,0,25,329.6,2
+2022-07-05,Ricciardo,29,McLaren,Monza,2.758,0.275,3,0,23,330.1,5
+2018-01-24,Sainz,31,Alpine,Monza,2.596,0.14,10,0,16,338.4,2
+2021-02-19,Norris,27,Ferrari,Singapore,2.588,0.196,15,1,0,315.6,6
+2015-12-03,Perez,27,Red Bull,Abu Dhabi,2.607,0.225,5,0,21,321.8,3
+2020-11-24,Vettel,19,Mercedes,Singapore,3.124,0.149,5,0,21,321.0,7
+2022-08-18,Ricciardo,31,Ferrari,Monaco,2.96,0.061,15,0,0,346.3,6
+2014-09-22,Vettel,22,Williams,Silverstone,2.616,0.282,5,0,21,338.3,5
+2011-06-29,Alonso,23,AlphaTauri,Abu Dhabi,3.598,0.115,2,0,24,318.3,1
+2016-12-06,Bottas,27,McLaren,Spa,2.783,0.58,3,0,23,343.7,8
+2019-11-09,Sainz,30,Aston Martin,Abu Dhabi,2.972,0.254,10,1,0,340.1,6
+2016-06-22,Alonso,20,Alpine,Monaco,3.759,0.219,7,0,19,342.3,10
+2010-12-06,Leclerc,36,Mercedes,Spa,3.187,0.087,18,1,0,310.9,9
+2011-01-08,Norris,23,Haas,Abu Dhabi,2.319,0.707,6,1,0,319.9,3
+2018-04-03,Norris,27,Mercedes,Montreal,3.277,0.039,6,1,0,331.2,4
+2020-01-01,Norris,24,Mercedes,Spa,3.476,0.423,15,0,0,320.8,1
+2016-07-06,Verstappen,33,Ferrari,Abu Dhabi,2.476,0.005,16,0,0,332.1,6
+2018-11-01,Perez,29,Haas,Spa,3.821,0.454,13,0,0,324.7,6
+2015-09-01,Verstappen,28,Alfa Romeo,Montreal,2.807,0.172,19,1,0,321.5,5
+2013-02-13,Vettel,21,Ferrari,Spa,2.46,0.457,18,0,0,330.6,5
+2023-02-19,Sainz,26,Williams,Melbourne,2.78,0.075,13,0,0,315.4,1
+2018-02-03,Hamilton,27,Aston Martin,Singapore,2.881,0.034,19,0,0,332.9,5
+2013-09-08,Verstappen,33,Red Bull,Melbourne,2.658,0.642,15,0,0,328.6,7
+2014-02-22,Perez,30,Williams,Spa,3.006,0.009,14,0,0,322.1,4
+2019-06-29,Perez,26,Ferrari,Spa,3.874,0.28,17,0,0,338.6,9
+2023-04-01,Norris,26,Williams,Abu Dhabi,3.04,0.15,5,0,21,324.5,5
+2014-11-05,Norris,27,McLaren,Melbourne,3.218,0.02,5,0,21,323.5,8
+2017-03-13,Bottas,13,Ferrari,Singapore,3.141,0.022,1,1,0,349.9,7
+2014-07-06,Perez,18,Ferrari,Interlagos,2.986,0.251,10,0,16,328.1,4
+2014-04-03,Alonso,28,McLaren,Montreal,3.001,0.23,8,0,18,332.0,5
+2017-01-22,Sainz,20,Ferrari,Suzuka,3.189,0.092,19,1,0,323.8,7
+2010-03-02,Ricciardo,30,McLaren,Monaco,3.03,0.01,13,0,0,327.9,4
+2010-07-13,Alonso,26,Red Bull,Melbourne,3.129,0.053,4,0,22,325.1,6
+2012-04-03,Sainz,29,Mercedes,Monaco,2.701,0.045,3,0,23,310.6,10
+2010-09-17,Alonso,23,Alfa Romeo,Montreal,3.453,0.032,20,0,0,324.9,5
+2013-12-06,Alonso,22,Aston Martin,Abu Dhabi,3.25,0.289,18,0,0,325.9,7
+2022-02-22,Perez,24,Haas,Spa,2.195,0.008,13,0,0,299.9,2
+2014-09-07,Hamilton,18,McLaren,Spa,3.054,0.102,10,1,0,314.1,10
+2012-04-17,Verstappen,30,Ferrari,Suzuka,2.378,0.049,13,0,0,326.8,6
+2020-04-20,Alonso,27,McLaren,Silverstone,3.33,0.11,14,0,0,325.8,4
+2011-01-18,Hamilton,26,McLaren,Interlagos,2.69,0.061,18,0,0,337.6,5
+2017-06-13,Leclerc,26,Red Bull,Melbourne,2.511,0.691,1,0,25,314.0,11
+2016-05-26,Alonso,29,Red Bull,Montreal,3.342,0.137,15,0,0,319.3,3
+2020-02-22,Verstappen,20,McLaren,Montreal,2.175,0.188,8,0,18,319.1,6
+2014-04-25,Bottas,21,Ferrari,Montreal,3.097,0.035,14,0,0,342.2,3
+2013-06-13,Sainz,36,Williams,Abu Dhabi,3.188,0.037,17,1,0,353.0,5
+2021-04-22,Perez,27,Alfa Romeo,Montreal,2.32,0.208,2,0,24,329.4,3
+2011-08-27,Ricciardo,18,Alfa Romeo,Spa,3.267,0.043,17,0,0,327.8,4
+2017-04-22,Alonso,33,Williams,Singapore,3.077,0.367,3,0,23,326.2,6
+2023-05-25,Vettel,25,Aston Martin,Abu Dhabi,2.166,0.067,6,0,20,342.1,7
+2022-03-13,Leclerc,32,Williams,Interlagos,2.172,0.02,2,0,24,333.3,4
+2021-05-07,Leclerc,29,Alfa Romeo,Suzuka,2.714,0.044,8,1,0,326.6,4
+2014-08-09,Alonso,31,Alpine,Monza,3.043,0.391,12,1,0,329.1,3
+2019-06-27,Leclerc,29,Aston Martin,Interlagos,2.545,0.08,10,0,16,333.9,1
+2012-10-23,Hamilton,32,Williams,Suzuka,3.282,0.012,15,0,0,328.1,9
+2014-05-15,Perez,28,Red Bull,Abu Dhabi,2.942,0.216,4,0,22,329.6,4
+2014-03-05,Verstappen,28,Alfa Romeo,Abu Dhabi,2.462,0.009,17,0,0,333.1,9
+2021-04-02,Alonso,26,Alfa Romeo,Monaco,3.61,0.557,3,0,23,314.9,10
+2018-06-27,Leclerc,32,Haas,Suzuka,3.042,0.024,19,1,0,312.7,6
+2017-10-04,Leclerc,22,Aston Martin,Abu Dhabi,2.919,0.066,2,0,24,317.8,9
+2016-10-08,Verstappen,33,McLaren,Interlagos,3.259,0.158,10,0,16,339.6,4
+2015-01-04,Hamilton,32,Ferrari,Melbourne,2.938,0.094,13,0,0,338.7,5
+2017-05-29,Norris,32,Williams,Montreal,2.287,0.507,1,0,25,326.0,4
+2014-04-30,Alonso,25,Haas,Singapore,3.021,0.265,13,0,0,340.0,3
+2017-09-14,Leclerc,22,Mercedes,Suzuka,3.139,0.073,4,0,22,334.0,5
+2021-12-03,Perez,32,Alfa Romeo,Monaco,3.341,0.24,19,0,0,341.0,7
+2015-03-13,Alonso,41,Ferrari,Monaco,2.517,0.623,4,0,22,328.9,5
+2011-12-13,Sainz,35,Williams,Monza,3.224,0.201,10,0,16,319.1,1
+2020-08-15,Hamilton,26,Haas,Silverstone,2.998,0.167,1,0,25,335.2,5
+2015-11-18,Vettel,30,Mercedes,Suzuka,2.567,0.147,20,0,0,329.8,6
+2020-11-01,Hamilton,21,Mercedes,Singapore,3.434,0.224,16,0,0,335.4,3
+2019-06-01,Norris,23,Haas,Singapore,2.71,0.078,7,0,19,326.4,4
+2015-09-30,Leclerc,26,Ferrari,Abu Dhabi,2.84,0.05,5,0,21,342.0,4
+2017-03-16,Norris,19,Alpine,Monza,2.009,0.134,11,0,0,334.9,6
+2010-09-03,Hamilton,38,Williams,Silverstone,3.348,0.35,7,0,19,319.4,9
+2019-10-30,Verstappen,33,Alpine,Suzuka,3.163,0.161,4,0,22,314.3,5
+2023-03-29,Ricciardo,32,Aston Martin,Montreal,3.004,0.087,1,0,25,341.9,5
+2020-06-11,Perez,27,Aston Martin,Abu Dhabi,2.533,0.271,1,1,0,330.2,7
+2021-04-12,Sainz,28,McLaren,Monza,2.343,0.105,15,0,0,336.0,6
+2012-11-15,Verstappen,23,Alfa Romeo,Silverstone,2.995,0.097,17,0,0,329.0,3
+2012-04-21,Sainz,29,Mercedes,Melbourne,3.88,0.245,8,0,18,333.9,5
+2021-01-17,Ricciardo,23,Williams,Interlagos,2.411,0.163,18,0,0,307.2,12
+2020-06-05,Alonso,37,Alfa Romeo,Abu Dhabi,2.779,0.088,5,0,21,338.4,6
+2010-05-09,Sainz,26,Alfa Romeo,Interlagos,2.955,0.316,4,0,22,327.0,8
+2010-03-23,Alonso,29,Alpine,Spa,3.437,0.141,7,0,19,342.2,7
+2015-05-03,Sainz,31,Williams,Singapore,3.106,0.197,9,0,17,336.2,7
+2019-02-25,Verstappen,22,Williams,Singapore,3.387,0.163,5,0,21,336.0,2
+2010-11-23,Vettel,25,Haas,Silverstone,3.429,0.242,19,0,0,326.1,2
+2015-06-02,Verstappen,28,Alpine,Silverstone,3.748,0.17,17,0,0,328.3,2
+2015-12-01,Alonso,43,McLaren,Interlagos,2.973,0.439,11,0,0,336.1,4
+2011-04-21,Sainz,32,Alfa Romeo,Silverstone,2.749,0.085,3,0,23,348.0,10
+2014-12-15,Ricciardo,37,McLaren,Monza,3.617,0.069,5,0,21,320.8,6
+2011-10-25,Vettel,29,Ferrari,Monaco,2.173,0.424,10,1,0,324.2,4
+2012-11-26,Verstappen,21,AlphaTauri,Spa,3.092,0.006,19,0,0,333.8,4
+2015-04-20,Bottas,21,Haas,Monaco,2.827,0.263,13,0,0,319.4,8
+2017-09-09,Bottas,31,Haas,Monza,2.677,0.097,13,0,0,336.0,3
+2016-10-24,Alonso,34,Mercedes,Suzuka,3.996,0.2,12,0,0,312.4,2
+2014-11-12,Perez,33,Haas,Monza,3.079,0.225,15,0,0,335.9,4
+2015-10-21,Verstappen,26,Aston Martin,Singapore,3.251,0.6,15,1,0,353.9,3
+2010-12-16,Perez,28,Haas,Interlagos,2.691,0.024,14,0,0,345.7,4
+2014-07-21,Vettel,30,Ferrari,Singapore,3.271,0.542,5,1,0,330.2,8
+2011-03-11,Bottas,28,Haas,Montreal,2.614,0.023,1,0,25,322.5,3
+2020-10-25,Leclerc,25,Red Bull,Montreal,3.034,0.221,14,0,0,324.8,9
+2023-07-02,Leclerc,38,McLaren,Interlagos,2.551,0.022,6,0,20,323.7,2
+2010-06-01,Bottas,41,Williams,Montreal,3.089,0.177,9,0,17,317.8,8
+2023-08-25,Hamilton,33,Williams,Melbourne,2.576,0.032,6,0,20,314.5,4
+2023-10-10,Ricciardo,30,Red Bull,Monaco,3.27,0.091,4,0,22,312.7,4
+2013-02-08,Vettel,21,Mercedes,Monaco,2.227,0.412,6,0,20,323.0,8
+2020-07-09,Sainz,23,McLaren,Abu Dhabi,3.019,0.082,3,0,23,329.0,4
+2010-02-06,Bottas,29,Ferrari,Monza,3.372,0.349,12,0,0,329.2,4
+2010-11-05,Norris,22,AlphaTauri,Spa,2.414,0.402,14,0,0,350.9,7
+2020-03-31,Norris,23,McLaren,Silverstone,3.669,0.001,13,1,0,311.7,9
+2012-07-24,Alonso,33,Ferrari,Silverstone,4.01,0.468,16,0,0,334.7,13
+2013-02-03,Perez,29,McLaren,Monaco,3.485,0.088,11,0,0,336.5,7
+2023-04-09,Ricciardo,31,Aston Martin,Suzuka,3.169,0.476,10,0,16,334.6,4
+2021-09-28,Alonso,30,Alpine,Suzuka,2.425,0.424,11,0,0,335.9,4
+2021-08-23,Perez,36,Red Bull,Monaco,2.868,0.363,7,0,19,319.5,4
+2014-01-16,Perez,30,AlphaTauri,Suzuka,2.346,0.266,18,0,0,342.6,3
+2011-03-06,Sainz,28,McLaren,Abu Dhabi,3.462,0.439,14,1,0,327.8,4
+2022-08-17,Verstappen,31,Williams,Abu Dhabi,3.818,0.097,7,0,19,328.5,8
+2012-09-10,Ricciardo,33,Ferrari,Interlagos,3.33,0.191,1,0,25,339.9,7
+2018-05-23,Sainz,26,Williams,Interlagos,4.064,0.443,9,0,17,337.1,8
+2022-06-02,Vettel,22,Mercedes,Melbourne,2.851,0.102,16,0,0,328.0,4
+2022-09-02,Ricciardo,20,Ferrari,Silverstone,2.441,0.216,6,0,20,317.4,6
+2013-05-03,Ricciardo,33,Alpine,Suzuka,2.943,0.465,8,0,18,333.9,7
+2012-01-27,Perez,23,Mercedes,Abu Dhabi,3.907,0.056,11,0,0,328.4,9
+2013-12-09,Norris,23,Alfa Romeo,Montreal,3.863,0.007,3,0,23,339.7,5
+2022-03-13,Vettel,25,Haas,Silverstone,2.352,0.324,12,0,0,317.1,10
+2013-08-16,Leclerc,34,Haas,Montreal,2.61,0.431,2,1,0,324.9,5
+2019-08-05,Perez,31,Alfa Romeo,Melbourne,2.288,0.048,20,0,0,339.0,3
+2023-09-03,Hamilton,32,McLaren,Monza,3.227,0.502,16,1,0,314.8,8
+2013-05-03,Leclerc,16,Haas,Interlagos,3.123,0.122,12,0,0,334.8,5
+2018-10-29,Vettel,31,AlphaTauri,Monza,3.732,0.417,18,0,0,343.2,7
+2020-02-11,Verstappen,33,Mercedes,Silverstone,3.022,0.267,10,0,16,327.1,12
+2023-05-06,Leclerc,25,Haas,Monza,2.444,0.291,1,0,25,322.1,3
+2010-10-24,Perez,28,AlphaTauri,Monza,4.306,0.283,15,0,0,342.7,9
+2010-01-12,Alonso,30,AlphaTauri,Montreal,3.279,0.076,10,0,16,325.9,3
+2018-01-13,Sainz,29,McLaren,Abu Dhabi,2.372,0.103,19,0,0,333.9,6
+2016-01-09,Alonso,29,Red Bull,Singapore,2.85,0.107,14,1,0,326.4,7
+2010-10-21,Sainz,26,Ferrari,Abu Dhabi,2.493,0.23,10,0,16,335.7,5
+2013-01-02,Alonso,33,Williams,Monza,2.802,0.138,17,1,0,321.3,9
+2023-02-15,Sainz,24,Alfa Romeo,Abu Dhabi,3.106,0.45,11,0,0,339.4,8
+2015-12-25,Sainz,34,Aston Martin,Spa,3.431,0.116,8,0,18,323.3,7
+2021-02-07,Alonso,27,Haas,Montreal,2.692,0.037,13,1,0,324.7,6
+2010-03-17,Bottas,24,Mercedes,Interlagos,3.573,0.077,12,0,0,345.3,4
+2014-09-25,Leclerc,35,Haas,Melbourne,3.751,0.319,16,0,0,325.6,6
+2011-12-06,Hamilton,21,McLaren,Interlagos,3.072,0.114,10,1,0,347.4,7
+2010-08-27,Alonso,22,Williams,Melbourne,4.15,0.257,5,0,21,313.2,7
+2020-11-06,Vettel,24,AlphaTauri,Silverstone,3.516,0.023,14,0,0,347.6,3
+2010-11-17,Bottas,27,Alfa Romeo,Spa,2.906,0.106,17,1,0,336.7,5
+2018-02-10,Perez,32,AlphaTauri,Interlagos,3.719,0.049,6,0,20,331.6,4
+2019-11-29,Alonso,27,AlphaTauri,Silverstone,2.666,0.008,6,0,20,329.2,6
+2011-12-12,Leclerc,25,Mercedes,Suzuka,3.639,0.222,10,0,16,338.0,7
+2010-01-22,Bottas,26,Haas,Melbourne,2.236,0.064,6,0,20,316.2,4
+2020-09-21,Alonso,32,McLaren,Monza,2.749,0.0,10,1,0,327.0,1
+2022-10-09,Hamilton,24,Red Bull,Spa,2.931,0.825,7,0,19,326.6,8
+2023-09-11,Norris,29,Alfa Romeo,Suzuka,2.968,0.413,10,0,16,318.2,2
+2016-10-17,Alonso,24,McLaren,Abu Dhabi,3.62,0.188,18,1,0,322.0,8
+2020-05-23,Alonso,26,Alfa Romeo,Suzuka,3.705,0.414,13,0,0,333.6,5
+2010-05-23,Hamilton,34,Williams,Monza,2.668,0.059,13,0,0,316.7,4
+2012-01-13,Verstappen,31,McLaren,Spa,2.745,0.029,16,0,0,328.1,5
+2023-11-24,Hamilton,28,Mercedes,Monaco,3.104,0.027,17,0,0,332.6,7
+2016-10-15,Vettel,28,Aston Martin,Montreal,3.658,0.999,19,0,0,328.6,6
+2018-04-06,Alonso,35,Aston Martin,Suzuka,2.82,0.066,6,0,20,337.7,11
+2019-04-25,Verstappen,22,Alpine,Monza,3.215,0.356,16,0,0,317.2,3
+2022-04-13,Hamilton,25,Alpine,Monaco,3.52,0.249,2,0,24,338.1,5
+2021-09-29,Leclerc,22,Haas,Montreal,2.444,0.02,13,0,0,338.0,2
+2010-10-10,Alonso,34,Ferrari,Monza,3.336,0.001,14,0,0,318.0,6
+2013-12-01,Bottas,21,Ferrari,Silverstone,2.438,0.004,20,1,0,328.2,4
+2013-05-14,Perez,30,Ferrari,Suzuka,3.176,0.134,10,1,0,330.1,2
+2020-01-17,Perez,20,Mercedes,Suzuka,2.91,0.059,16,0,0,327.6,6
+2019-06-30,Verstappen,23,Red Bull,Suzuka,2.754,0.115,2,0,24,337.3,6
+2014-12-30,Perez,25,Red Bull,Abu Dhabi,3.168,0.419,19,0,0,342.6,2
+2010-04-20,Perez,28,Ferrari,Interlagos,2.071,0.075,3,0,23,341.9,8
+2023-11-17,Ricciardo,36,Mercedes,Montreal,2.753,0.094,16,0,0,344.7,3
+2019-10-14,Leclerc,30,Williams,Monaco,2.257,0.005,19,0,0,324.5,3
+2015-09-21,Leclerc,20,Alfa Romeo,Silverstone,3.769,0.003,8,0,18,323.1,4
+2012-06-09,Sainz,31,Red Bull,Melbourne,3.035,0.04,4,0,22,321.3,4
+2015-10-12,Verstappen,22,Williams,Silverstone,2.047,0.27,8,0,18,339.0,5
+2013-09-16,Verstappen,32,Alfa Romeo,Abu Dhabi,2.307,0.214,12,0,0,321.9,3
+2016-12-20,Leclerc,29,Alpine,Suzuka,3.164,0.01,1,0,25,319.0,6
+2023-12-05,Ricciardo,30,Haas,Suzuka,3.9,0.069,18,0,0,334.1,8
+2020-04-29,Bottas,31,Mercedes,Montreal,2.76,0.11,15,0,0,327.6,8
+2014-10-12,Ricciardo,17,Williams,Montreal,2.192,0.004,10,0,16,320.3,4
+2015-11-09,Sainz,23,Mercedes,Abu Dhabi,3.176,0.444,20,1,0,328.7,4
+2010-10-13,Alonso,22,Red Bull,Melbourne,3.931,0.376,4,0,22,318.6,6
+2014-06-17,Sainz,31,Red Bull,Suzuka,2.268,0.338,16,0,0,329.6,8
+2018-07-31,Verstappen,27,Alfa Romeo,Silverstone,2.278,0.082,19,0,0,320.0,3
+2012-01-06,Alonso,25,Alfa Romeo,Montreal,3.143,0.233,17,0,0,332.5,4
+2020-02-29,Vettel,34,Alfa Romeo,Melbourne,2.019,0.267,15,1,0,330.0,3
+2015-10-16,Ricciardo,28,Aston Martin,Monza,2.732,0.012,7,1,0,318.8,6
+2010-12-14,Leclerc,30,Haas,Singapore,3.439,0.16,4,0,22,334.3,7
+2017-07-27,Ricciardo,33,McLaren,Silverstone,3.399,0.115,20,0,0,335.4,1
+2020-05-10,Verstappen,23,AlphaTauri,Interlagos,3.254,0.455,9,0,17,327.4,3
+2014-10-01,Norris,21,Red Bull,Montreal,1.84,0.094,18,0,0,319.3,4
+2017-12-11,Bottas,28,Alfa Romeo,Suzuka,2.472,0.186,8,0,18,333.4,4
+2023-09-22,Perez,26,Williams,Abu Dhabi,3.213,0.066,9,1,0,324.6,5
+2021-09-16,Ricciardo,32,Aston Martin,Suzuka,3.569,0.197,2,0,24,340.9,4
+2019-10-18,Bottas,24,Aston Martin,Singapore,2.569,0.324,11,0,0,343.2,6
+2021-09-25,Norris,31,Ferrari,Melbourne,2.36,0.061,10,1,0,332.9,8
+2022-12-06,Vettel,27,Aston Martin,Silverstone,3.537,0.044,18,1,0,331.3,6
+2023-06-26,Vettel,24,Aston Martin,Montreal,3.275,0.202,9,0,17,327.9,7
+2016-03-15,Verstappen,29,AlphaTauri,Silverstone,2.936,0.17,15,0,0,338.7,4
+2023-10-25,Verstappen,32,Aston Martin,Spa,2.99,0.267,8,0,18,335.5,8
+2020-10-24,Alonso,30,Williams,Spa,2.459,0.201,7,0,19,352.3,5
+2010-07-19,Vettel,34,Alfa Romeo,Suzuka,3.169,0.019,19,1,0,328.9,6
+2023-02-01,Bottas,25,Ferrari,Silverstone,3.289,0.278,4,0,22,334.1,5
+2020-12-08,Leclerc,24,Haas,Montreal,3.601,0.289,3,0,23,340.8,5
+2017-12-16,Vettel,37,Williams,Monza,2.496,0.266,10,0,16,336.6,3
+2016-03-23,Bottas,25,Alfa Romeo,Monza,2.946,0.325,9,0,17,322.6,4
+2011-01-27,Sainz,18,AlphaTauri,Spa,2.788,0.295,13,0,0,337.2,7
+2016-08-25,Bottas,25,Alpine,Singapore,3.634,0.011,20,0,0,353.8,2
+2010-05-02,Sainz,27,Alfa Romeo,Montreal,2.895,0.573,19,0,0,341.3,3
+2011-10-24,Leclerc,31,Haas,Suzuka,2.373,0.212,20,0,0,324.3,5
+2022-10-20,Vettel,20,McLaren,Monaco,2.802,0.084,15,0,0,329.2,4
+2011-04-20,Alonso,24,Alfa Romeo,Monza,3.32,0.224,14,1,0,336.6,6
+2021-12-27,Norris,31,Red Bull,Monaco,2.218,0.406,7,1,0,347.2,5
+2017-06-16,Ricciardo,33,Aston Martin,Spa,2.323,0.135,11,0,0,333.9,6
+2014-11-21,Alonso,23,AlphaTauri,Monaco,3.335,0.277,14,0,0,326.4,4
+2023-09-06,Sainz,25,Ferrari,Singapore,2.615,0.233,17,0,0,320.7,5
+2013-03-29,Leclerc,22,McLaren,Montreal,3.059,0.027,16,0,0,342.4,5
+2016-04-16,Vettel,30,Williams,Melbourne,3.205,0.16,18,0,0,337.4,6
+2023-12-04,Perez,36,Mercedes,Montreal,2.215,0.539,11,0,0,347.9,8
+2019-03-19,Hamilton,18,Mercedes,Abu Dhabi,3.249,0.17,11,1,0,346.8,7
+2017-09-11,Verstappen,30,Red Bull,Montreal,2.499,0.769,17,0,0,326.8,5
+2011-05-20,Sainz,19,Haas,Spa,2.458,0.142,7,0,19,322.1,6
+2023-02-08,Alonso,28,Williams,Singapore,2.713,0.443,3,0,23,323.1,5
+2018-09-25,Verstappen,29,Ferrari,Abu Dhabi,2.554,0.136,7,0,19,323.3,3
+2012-10-27,Leclerc,28,McLaren,Montreal,2.647,0.091,4,0,22,345.8,9
+2021-01-10,Vettel,29,Aston Martin,Montreal,3.271,0.177,2,1,0,328.2,6
+2021-01-22,Verstappen,26,Ferrari,Montreal,3.569,0.014,20,0,0,314.4,4
+2013-05-30,Bottas,18,Alpine,Monaco,2.761,0.413,6,0,20,319.9,7
+2010-07-20,Verstappen,31,Ferrari,Monza,3.508,0.233,4,0,22,331.5,7
+2023-04-16,Verstappen,32,Alfa Romeo,Monaco,2.963,0.113,13,0,0,319.9,2
+2023-01-09,Leclerc,32,Aston Martin,Suzuka,2.741,0.211,3,0,23,326.5,5
+2011-08-19,Vettel,27,Alfa Romeo,Monza,2.922,0.257,19,0,0,325.0,4
+2010-08-28,Sainz,23,Aston Martin,Abu Dhabi,3.362,0.033,6,0,20,343.1,2
+2019-06-17,Ricciardo,25,Haas,Suzuka,1.966,0.359,5,0,21,334.6,4
+2019-12-26,Alonso,32,Alpine,Spa,1.65,0.182,2,0,24,327.7,1
+2016-12-22,Leclerc,27,Alpine,Monaco,3.523,0.146,7,0,19,316.7,3
+2013-03-12,Hamilton,28,Alfa Romeo,Interlagos,3.017,0.408,3,0,23,337.2,3
+2017-12-17,Leclerc,21,Williams,Melbourne,2.097,0.095,3,0,23,327.7,4
+2019-07-20,Verstappen,29,Aston Martin,Monza,3.477,0.108,13,0,0,344.8,2
+2011-03-11,Bottas,30,McLaren,Abu Dhabi,2.635,0.068,15,0,0,315.9,3
+2021-07-13,Ricciardo,30,Alpine,Abu Dhabi,2.49,0.223,5,1,0,334.4,7
+2011-04-01,Vettel,40,Mercedes,Singapore,2.554,0.241,7,0,19,317.2,2
+2022-02-23,Hamilton,22,Williams,Abu Dhabi,3.662,0.154,16,0,0,328.8,10
+2019-10-01,Perez,38,Haas,Monza,2.95,0.075,1,0,25,351.5,4
+2021-07-01,Norris,21,AlphaTauri,Singapore,3.174,0.376,3,0,23,328.4,5
+2023-02-16,Verstappen,30,Ferrari,Monza,2.765,0.207,20,0,0,333.6,5
+2019-03-02,Ricciardo,30,McLaren,Monza,2.797,0.358,9,0,17,327.0,8
+2017-08-15,Bottas,27,Alpine,Suzuka,3.509,0.155,6,0,20,328.5,5
+2021-10-23,Sainz,31,Ferrari,Interlagos,2.918,0.253,6,1,0,329.5,8
+2013-01-12,Perez,28,Haas,Singapore,3.154,0.07,9,1,0,337.0,9
+2016-01-17,Ricciardo,25,Alfa Romeo,Monaco,3.147,0.005,7,0,19,323.0,6
+2013-12-31,Perez,28,McLaren,Silverstone,2.315,0.104,6,0,20,333.8,4
+2010-04-05,Alonso,28,McLaren,Suzuka,3.109,0.417,19,0,0,329.4,7
+2013-01-26,Leclerc,26,Haas,Melbourne,2.783,0.179,16,0,0,319.0,8
+2014-03-25,Bottas,27,Red Bull,Silverstone,2.95,0.218,2,0,24,327.7,7
+2013-12-11,Perez,29,Alfa Romeo,Melbourne,2.809,0.3,10,0,16,314.4,6
+2011-02-03,Verstappen,30,McLaren,Montreal,3.059,0.092,2,0,24,339.8,4
+2021-12-11,Bottas,34,Mercedes,Monza,2.619,0.071,5,0,21,342.0,1
+2011-12-07,Ricciardo,23,Ferrari,Monaco,3.522,0.299,18,0,0,337.8,3
+2013-03-08,Ricciardo,32,Mercedes,Abu Dhabi,2.976,0.178,9,0,17,338.3,2
+2015-08-05,Leclerc,28,Ferrari,Abu Dhabi,2.499,0.216,7,0,19,326.1,10
+2015-01-17,Norris,25,Alpine,Silverstone,2.624,0.369,8,0,18,336.5,4
+2016-03-06,Alonso,19,Ferrari,Monza,3.035,0.067,18,0,0,323.6,0
+2017-07-08,Vettel,26,Mercedes,Interlagos,3.153,0.027,3,0,23,329.9,4
+2015-08-06,Ricciardo,26,Red Bull,Interlagos,2.985,0.218,10,0,16,334.3,5
+2012-04-27,Hamilton,34,Red Bull,Spa,3.109,0.519,11,0,0,347.3,7
+2020-11-21,Verstappen,30,Haas,Melbourne,3.447,0.162,3,0,23,312.9,7
+2012-07-29,Hamilton,35,AlphaTauri,Abu Dhabi,2.28,0.022,15,0,0,314.4,5
+2013-11-15,Alonso,26,Red Bull,Melbourne,2.656,0.156,15,0,0,337.3,6
+2014-08-05,Alonso,30,Alpine,Singapore,3.514,0.241,19,0,0,319.9,3
+2016-11-23,Vettel,37,Red Bull,Interlagos,3.945,0.476,3,0,23,329.7,5
+2014-02-02,Perez,38,Williams,Monaco,2.202,0.257,4,0,22,323.7,4
+2017-02-15,Perez,28,Ferrari,Interlagos,3.098,0.487,11,0,0,335.2,8
+2019-08-11,Perez,31,Alpine,Monaco,2.756,0.081,18,0,0,331.0,4
+2015-11-15,Leclerc,30,Ferrari,Spa,2.74,0.141,14,1,0,329.4,6
+2018-04-22,Bottas,30,Mercedes,Suzuka,2.969,0.076,16,0,0,332.2,6
+2021-04-05,Sainz,31,Williams,Spa,3.149,0.243,7,0,19,328.5,2
+2022-10-10,Perez,24,Alfa Romeo,Interlagos,3.255,0.104,17,1,0,331.5,5
+2020-02-02,Perez,24,Alfa Romeo,Silverstone,3.563,0.121,6,1,0,332.5,6
+2020-05-22,Norris,33,McLaren,Suzuka,2.863,0.315,3,0,23,337.3,7
+2013-06-11,Bottas,12,AlphaTauri,Monza,3.611,0.137,8,0,18,345.5,5
+2016-06-22,Hamilton,29,Alfa Romeo,Suzuka,3.88,0.13,3,0,23,355.3,8
+2012-05-11,Verstappen,36,Aston Martin,Suzuka,2.659,0.006,12,0,0,322.5,0
+2020-12-31,Leclerc,21,Alfa Romeo,Spa,3.509,0.177,10,0,16,330.6,1
+2013-05-31,Ricciardo,32,Alpine,Singapore,2.528,0.174,1,0,25,338.7,3
+2019-04-03,Ricciardo,31,Aston Martin,Interlagos,2.651,0.348,10,1,0,333.4,8
+2013-11-01,Bottas,21,AlphaTauri,Montreal,1.999,0.123,12,0,0,322.3,3
+2014-06-10,Verstappen,34,Haas,Monza,3.501,0.022,11,0,0,329.7,2
+2023-08-21,Perez,28,Aston Martin,Singapore,3.509,0.003,17,0,0,306.2,4
+2015-11-08,Norris,21,Ferrari,Interlagos,3.24,0.063,18,0,0,326.3,5
+2014-05-07,Perez,32,Red Bull,Melbourne,2.959,0.424,6,0,20,326.0,5
+2010-10-09,Bottas,22,Williams,Suzuka,3.144,0.1,12,0,0,332.3,5
+2016-08-11,Ricciardo,30,AlphaTauri,Montreal,3.317,0.477,12,0,0,326.0,3
+2021-11-02,Alonso,32,Red Bull,Suzuka,1.529,0.063,16,1,0,333.3,7
+2015-04-05,Ricciardo,37,Haas,Abu Dhabi,3.047,0.06,9,0,17,314.1,4
+2015-02-11,Bottas,25,McLaren,Abu Dhabi,2.896,0.042,17,0,0,349.2,3
+2012-07-30,Vettel,23,Aston Martin,Montreal,2.594,0.125,4,0,22,319.8,3
+2020-05-16,Norris,28,Alpine,Abu Dhabi,2.888,0.193,3,0,23,315.8,6
+2019-09-05,Bottas,27,Ferrari,Singapore,2.481,0.084,16,0,0,328.0,12
+2023-05-13,Bottas,27,Alpine,Monaco,2.695,0.458,9,0,17,341.1,5
+2014-10-14,Norris,27,Williams,Monaco,3.911,0.35,7,0,19,325.9,6
+2014-06-15,Verstappen,24,McLaren,Silverstone,2.601,0.081,2,0,24,329.6,7
+2010-07-04,Verstappen,31,Haas,Monza,2.932,0.166,17,1,0,342.3,7
+2012-08-04,Vettel,27,Mercedes,Montreal,2.943,0.104,5,0,21,318.5,4
+2020-04-13,Vettel,25,Haas,Singapore,2.104,0.11,7,1,0,337.1,6
+2022-01-29,Verstappen,17,McLaren,Monaco,3.216,0.099,16,0,0,327.4,4
+2019-06-11,Bottas,34,Ferrari,Monaco,2.964,0.038,20,1,0,336.9,3
+2011-02-17,Bottas,27,Williams,Spa,2.63,0.077,10,0,16,326.2,3
+2011-10-01,Leclerc,31,Mercedes,Monaco,2.779,0.315,6,0,20,325.4,2
+2011-07-07,Verstappen,26,Aston Martin,Singapore,3.225,0.21,2,0,24,324.4,4
+2020-06-22,Ricciardo,25,McLaren,Silverstone,3.425,0.006,10,0,16,301.7,8
+2019-11-15,Ricciardo,16,Mercedes,Spa,3.352,0.266,8,0,18,347.5,7
+2021-03-25,Sainz,36,AlphaTauri,Monza,2.818,0.446,12,0,0,347.8,5
+2010-03-04,Sainz,21,Alfa Romeo,Singapore,2.838,0.136,6,0,20,332.0,2
+2011-04-19,Bottas,16,Mercedes,Melbourne,3.072,0.425,4,0,22,334.3,6
+2012-05-28,Verstappen,29,AlphaTauri,Monaco,2.149,0.009,3,0,23,319.2,3
+2017-11-12,Verstappen,21,Red Bull,Spa,3.471,0.081,7,0,19,332.1,6
+2013-08-20,Bottas,26,Aston Martin,Melbourne,3.76,0.294,20,0,0,345.2,3
+2011-11-16,Vettel,25,Williams,Monza,2.418,0.735,6,0,20,339.7,6
+2014-12-01,Ricciardo,36,Aston Martin,Abu Dhabi,3.003,0.364,9,0,17,341.7,3
+2017-02-15,Norris,31,AlphaTauri,Monza,3.147,1.316,8,0,18,327.3,6
+2020-02-13,Norris,27,Alfa Romeo,Monaco,2.737,0.024,15,0,0,321.9,3
+2019-11-07,Norris,25,Aston Martin,Montreal,2.755,0.095,12,1,0,333.7,3
+2016-10-13,Leclerc,27,Alpine,Interlagos,2.86,0.377,19,0,0,327.4,3
+2015-04-10,Sainz,36,Mercedes,Interlagos,2.736,0.49,16,0,0,316.9,6
+2023-07-06,Norris,34,Aston Martin,Monaco,3.693,0.134,11,0,0,299.1,2
+2010-12-02,Vettel,16,McLaren,Silverstone,2.484,0.004,2,0,24,335.2,6
+2018-05-17,Leclerc,28,Williams,Spa,3.33,0.034,14,0,0,327.3,8
+2020-06-19,Hamilton,25,Ferrari,Monza,3.028,0.054,17,0,0,341.7,6
+2013-11-04,Ricciardo,22,Williams,Melbourne,2.634,0.32,12,0,0,327.2,0
+2020-12-29,Leclerc,21,Aston Martin,Montreal,2.701,0.159,19,0,0,328.3,4
+2023-02-04,Perez,28,Haas,Spa,4.179,0.027,12,0,0,331.0,2
+2022-07-06,Verstappen,21,Aston Martin,Singapore,1.942,0.073,9,0,17,319.9,4
+2019-06-16,Ricciardo,27,Red Bull,Singapore,2.811,0.878,4,0,22,326.9,5
+2016-06-20,Perez,29,Mercedes,Monza,2.516,0.087,15,0,0,335.8,7
+2023-06-16,Sainz,31,Ferrari,Interlagos,3.173,0.12,12,0,0,337.5,7
+2015-11-30,Leclerc,28,AlphaTauri,Singapore,3.414,0.03,17,0,0,341.5,7
+2021-04-21,Ricciardo,25,Aston Martin,Interlagos,2.478,0.065,3,0,23,325.2,7
+2020-04-16,Perez,35,McLaren,Spa,3.16,0.062,18,0,0,314.4,5
+2017-05-05,Hamilton,38,Mercedes,Spa,2.953,0.132,7,0,19,320.9,7
+2016-08-26,Perez,22,Red Bull,Abu Dhabi,2.595,0.273,12,0,0,324.5,8
+2017-10-01,Perez,24,Aston Martin,Monza,2.704,0.0,9,0,17,324.5,4
+2023-12-18,Hamilton,34,Alfa Romeo,Monaco,3.151,0.045,16,0,0,320.8,8
+2017-02-03,Perez,26,Williams,Spa,2.854,0.292,18,0,0,339.8,1
+2019-01-16,Verstappen,31,Ferrari,Abu Dhabi,3.245,0.223,11,0,0,319.5,6
+2021-12-27,Perez,27,Aston Martin,Spa,3.414,0.112,8,0,18,319.1,7
+2011-10-12,Ricciardo,32,Williams,Melbourne,3.109,0.359,5,0,21,326.5,4
+2020-07-16,Norris,36,Mercedes,Spa,2.281,0.099,12,0,0,326.7,3
+2018-11-19,Sainz,32,Aston Martin,Montreal,3.384,0.385,1,0,25,325.0,6
+2019-05-01,Leclerc,32,Ferrari,Suzuka,3.471,0.326,19,1,0,326.5,5
+2023-10-13,Perez,30,AlphaTauri,Spa,2.613,0.034,3,1,0,331.7,9
+2018-08-02,Sainz,27,Red Bull,Singapore,2.914,0.045,15,0,0,330.9,6
+2018-12-03,Leclerc,29,Mercedes,Suzuka,2.926,0.101,2,0,24,321.7,4
+2018-03-27,Hamilton,31,Haas,Silverstone,3.084,0.459,20,0,0,323.3,5
+2012-04-11,Verstappen,24,Mercedes,Suzuka,3.342,0.238,3,0,23,325.1,2
+2015-02-11,Verstappen,17,McLaren,Singapore,2.585,0.213,18,0,0,322.8,4
+2019-09-24,Bottas,20,Alpine,Abu Dhabi,2.695,0.163,17,1,0,320.0,9
+2017-10-24,Sainz,33,Mercedes,Melbourne,2.385,0.1,9,0,17,337.4,1
+2012-05-27,Hamilton,26,AlphaTauri,Abu Dhabi,3.607,0.419,12,0,0,342.0,7
+2020-01-29,Vettel,26,McLaren,Monaco,3.08,0.032,4,1,0,324.1,3
+2020-05-29,Leclerc,35,McLaren,Monaco,3.446,0.038,13,0,0,340.7,5
+2011-03-14,Perez,28,Red Bull,Monza,3.203,0.582,11,0,0,321.5,3
+2010-07-25,Norris,33,McLaren,Monza,1.766,0.344,20,0,0,325.5,4
+2016-11-14,Verstappen,22,Haas,Monaco,2.508,0.078,17,0,0,336.4,4
+2016-03-12,Verstappen,35,Alfa Romeo,Suzuka,3.545,0.106,16,0,0,340.0,6
+2010-08-18,Perez,32,Red Bull,Spa,2.925,0.136,16,0,0,322.0,6
+2023-03-02,Vettel,24,Mercedes,Suzuka,3.656,0.09,7,0,19,310.3,8
+2023-02-15,Verstappen,23,Alfa Romeo,Singapore,2.916,0.272,3,0,23,334.7,4
+2018-07-01,Leclerc,33,Red Bull,Spa,2.601,0.221,19,0,0,327.2,4
+2012-05-26,Sainz,20,Alfa Romeo,Melbourne,3.335,0.06,19,0,0,343.5,7
+2020-12-17,Verstappen,30,AlphaTauri,Suzuka,3.393,0.388,11,0,0,351.4,6
+2020-04-08,Leclerc,36,Williams,Suzuka,3.34,0.047,10,0,16,345.9,6
+2010-09-08,Sainz,13,Alpine,Monza,2.377,0.224,5,0,21,328.4,5
+2012-05-03,Norris,21,Alpine,Spa,2.204,0.228,6,0,20,328.3,5
+2011-09-12,Perez,31,Haas,Abu Dhabi,2.674,0.049,7,1,0,334.8,3
+2015-02-10,Alonso,22,McLaren,Monza,2.19,0.019,2,0,24,322.8,8
+2018-09-26,Norris,23,Red Bull,Monaco,1.981,0.251,17,0,0,332.5,10
+2020-07-15,Vettel,32,Alfa Romeo,Interlagos,4.262,0.539,13,0,0,326.9,6
+2020-03-13,Ricciardo,22,Alpine,Abu Dhabi,3.213,0.057,2,0,24,346.0,7
+2012-01-01,Leclerc,29,Alfa Romeo,Abu Dhabi,3.489,0.124,13,0,0,310.9,3
+2019-03-23,Vettel,24,Alpine,Monza,3.866,0.055,3,0,23,334.0,7
+2022-02-27,Sainz,20,Alfa Romeo,Singapore,4.385,0.087,14,0,0,340.0,5
+2011-09-27,Perez,33,Alfa Romeo,Abu Dhabi,2.254,0.285,2,0,24,340.8,5
+2019-02-02,Vettel,29,Mercedes,Silverstone,3.601,0.194,17,0,0,325.3,5
+2023-11-19,Alonso,28,Aston Martin,Abu Dhabi,3.334,0.101,8,0,18,332.3,5
+2018-03-01,Vettel,32,Williams,Silverstone,2.75,0.041,16,0,0,340.5,6
+2010-07-24,Bottas,26,McLaren,Spa,2.823,0.1,18,0,0,319.8,7
+2023-06-09,Alonso,25,AlphaTauri,Singapore,2.764,0.039,14,0,0,305.7,6
+2014-06-08,Hamilton,28,Ferrari,Abu Dhabi,2.894,0.308,12,0,0,321.6,7
+2021-10-22,Norris,26,Alfa Romeo,Montreal,3.737,0.109,4,0,22,325.5,1
+2018-10-10,Perez,28,Red Bull,Spa,2.316,0.054,7,0,19,350.8,6
+2016-08-14,Bottas,28,Red Bull,Interlagos,2.526,0.424,17,1,0,317.3,4
+2015-07-15,Bottas,26,Mercedes,Singapore,2.914,0.083,2,0,24,347.2,2
+2016-02-04,Sainz,24,Haas,Monza,3.313,0.114,9,1,0,326.0,4
+2010-09-25,Vettel,34,Alpine,Spa,4.077,0.005,3,0,23,323.1,3
+2019-03-10,Leclerc,22,McLaren,Monza,3.951,0.053,10,0,16,326.7,7
+2018-05-26,Hamilton,35,Alfa Romeo,Silverstone,3.453,0.291,11,1,0,320.6,11
+2021-12-31,Ricciardo,26,Mercedes,Montreal,3.337,0.019,10,0,16,338.5,6
+2016-03-16,Leclerc,26,Ferrari,Montreal,3.973,0.108,14,0,0,326.3,4
+2011-04-13,Ricciardo,33,McLaren,Interlagos,3.244,0.137,3,0,23,310.1,5
+2013-04-12,Verstappen,33,Williams,Spa,3.186,0.248,11,0,0,341.1,9
+2019-09-05,Vettel,36,Haas,Monza,3.571,0.002,15,0,0,310.2,3
+2011-02-19,Sainz,21,Red Bull,Monza,3.605,0.013,6,0,20,332.8,6
+2015-11-04,Perez,34,Aston Martin,Singapore,3.263,0.273,8,0,18,322.0,5
+2017-05-16,Hamilton,26,Williams,Abu Dhabi,2.99,0.199,15,1,0,329.4,5
+2016-01-25,Bottas,17,Haas,Montreal,3.094,0.085,8,0,18,338.6,4
+2022-08-29,Sainz,23,AlphaTauri,Montreal,3.591,0.219,18,0,0,329.5,8
+2014-11-09,Bottas,22,Alpine,Singapore,3.31,0.496,14,0,0,329.9,7
+2021-07-15,Ricciardo,27,McLaren,Spa,2.77,0.034,16,1,0,329.4,5
+2023-06-12,Alonso,25,AlphaTauri,Spa,3.917,0.09,20,0,0,342.1,7
+2016-09-10,Ricciardo,26,Haas,Spa,3.826,0.186,6,0,20,328.3,6
+2015-01-31,Ricciardo,22,Mercedes,Abu Dhabi,2.045,0.391,3,0,23,331.3,1
+2021-07-04,Perez,26,Haas,Suzuka,2.934,0.018,9,0,17,317.8,11
+2013-09-13,Leclerc,28,McLaren,Monaco,3.35,0.052,1,0,25,320.6,3
+2021-09-06,Vettel,39,Aston Martin,Monza,2.584,0.31,1,0,25,314.8,6
+2013-07-20,Hamilton,29,Williams,Silverstone,2.513,0.095,17,0,0,318.2,6
+2011-03-31,Alonso,23,Alpine,Silverstone,3.863,0.063,14,0,0,333.0,11
+2022-10-18,Hamilton,32,Red Bull,Monza,3.187,0.186,20,0,0,326.3,5
+2013-01-02,Alonso,28,AlphaTauri,Spa,2.941,0.038,20,0,0,346.4,5
+2013-12-29,Bottas,26,Ferrari,Montreal,2.286,0.057,6,0,20,333.4,9
+2016-05-29,Hamilton,27,Aston Martin,Monaco,3.092,0.151,8,1,0,338.3,4
+2014-05-30,Norris,24,Aston Martin,Melbourne,2.414,0.045,10,1,0,324.5,3
+2010-03-14,Norris,25,Williams,Spa,2.461,0.141,20,1,0,336.4,5
+2018-06-07,Sainz,31,Red Bull,Melbourne,3.05,0.113,2,1,0,331.9,9
+2012-06-25,Ricciardo,22,Williams,Melbourne,2.951,0.078,20,1,0,342.7,5
+2017-07-01,Sainz,25,Haas,Montreal,3.452,0.39,18,0,0,340.4,1
+2021-09-04,Sainz,25,Mercedes,Melbourne,3.109,0.009,3,0,23,345.4,7
+2020-10-11,Verstappen,25,McLaren,Silverstone,3.46,0.458,6,1,0,335.5,2
+2020-06-03,Alonso,20,AlphaTauri,Spa,2.479,0.09,3,1,0,322.8,7
+2022-09-21,Ricciardo,35,Ferrari,Suzuka,3.006,0.125,11,0,0,337.2,2
+2018-01-15,Bottas,31,Mercedes,Singapore,3.911,0.041,15,0,0,333.8,4
+2018-05-13,Sainz,30,McLaren,Singapore,2.42,0.352,14,0,0,354.4,4
+2013-11-08,Vettel,25,Ferrari,Spa,3.337,0.245,16,0,0,331.6,5
+2019-02-22,Sainz,30,Alpine,Monaco,3.459,0.041,13,0,0,325.3,3
+2015-03-14,Perez,28,AlphaTauri,Singapore,3.45,0.168,9,0,17,337.2,4
+2015-08-02,Bottas,25,Aston Martin,Abu Dhabi,2.959,0.262,1,1,0,325.6,8
+2016-06-05,Sainz,28,Red Bull,Abu Dhabi,2.757,0.485,3,0,23,341.6,6

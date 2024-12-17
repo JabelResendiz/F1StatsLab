@@ -37,7 +37,7 @@ for _ in range(500):
     final_position = random.randint(1, 20)
     
     # DNF (Did Not Finish) - distribución de Bernoulli
-    dnf = np.random.binomial(1, 0.15)  # 10% de probabilidad de DNF
+    dnf = np.random.binomial(1, 0.15)  # 15% de probabilidad de DNF
     
     # Puntos (basados en la posición final y DNF)
     points = 0 if dnf else max(0, 26 - final_position) if final_position <= 10 else 0

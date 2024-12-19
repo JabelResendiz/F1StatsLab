@@ -5,5 +5,3 @@
 > Arianne Camila Palancar Ochando
 
 > Noel Perez Calvo
-
-

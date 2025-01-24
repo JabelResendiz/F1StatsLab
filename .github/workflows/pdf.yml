@@ -3,9 +3,9 @@ name: Generate and Update PDF
 on:
   push:
     branches:
-      - main 
-  workflow_dispatch:
-  
+      - main
+  workflow_dispatch: 
+
 jobs:
   generate-pdf:
     runs-on: ubuntu-latest
@@ -14,10 +14,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Setup Python and LaTeX
+    - name: Setup Python, LaTeX, and Pandoc
       run: |
         sudo apt-get update
-        sudo apt-get install -y texlive-latex-base texlive-xetex texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+        sudo apt-get install -y texlive-latex-base texlive-xetex texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra pandoc
         python -m pip install --upgrade pip
         pip install notebook
 
@@ -34,5 +34,4 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add informe_F1.pdf
         git commit -m "Update informe_F1.pdf on push"
-        git push origin main
-
+        git push origin main  

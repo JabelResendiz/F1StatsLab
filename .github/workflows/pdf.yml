@@ -3,9 +3,9 @@ name: Generate and Update PDF
 on:
   push:
     branches:
-      - main 
-  workflow_dispatch:
-  
+      - main
+  workflow_dispatch: 
+
 jobs:
   generate-pdf:
     runs-on: ubuntu-latest
@@ -14,10 +14,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Setup Python and LaTeX
+    - name: Setup Python, LaTeX, and Pandoc
       run: |
         sudo apt-get update
-        sudo apt-get install -y texlive-latex-base texlive-xetex texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+        sudo apt-get install -y texlive-latex-base texlive-xetex texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra pandoc
         python -m pip install --upgrade pip
         pip install notebook
 
@@ -26,13 +26,20 @@ jobs:
         jupyter nbconvert --to pdf formula1/f1.ipynb
         mv formula1/f1.pdf informe_F1.pdf
 
-    - name: Commit and push generated PDF
+    - name: Configure GIT
+      run: |
+          git config --global user.name "JabelResendiz"
+          git config --global user.email "jabelresendiz18@gmail.com"
+
+    - name: Commit
+      run: |
+        git add informe_F1.pdf
+        git commit -m "Update informe_F1.pdf on push"
+         
+        
+    - name: Push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add informe_F1.pdf
-        git commit -m "Update informe_F1.pdf on push"
-        git push origin main
-
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/JabelResendiz/F1StatsLab 
+        git push origin main 

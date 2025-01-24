@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main 
-
+  workflow_dispatch:
+  
 jobs:
   generate-pdf:
     runs-on: ubuntu-latest
@@ -33,5 +34,5 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add informe_F1.pdf
         git commit -m "Update informe_F1.pdf on push"
-        git push
+        git push origin main
 

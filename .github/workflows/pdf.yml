@@ -31,10 +31,18 @@
 #           git config --global user.name "JabelResendiz"
 #           git config --global user.email "jabelresendiz18@gmail.com"
 
+<<<<<<< HEAD
 #     - name: Commit
 #       run: |
 #         git add informe_F1.pdf
 #         git commit -m "Update informe_F1.pdf on push"
+=======
+    - name: Commit
+      run: |
+        mv formula1/f1.pdf informe_F1.pdf
+        git add informe_F1.pdf
+        git commit -m "Update informe_F1.pdf on push"
+>>>>>>> 4e52591a4f351d617f4d817887798ef3a7e662e7
          
         
 #     - name: Push

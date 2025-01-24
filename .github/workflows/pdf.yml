@@ -26,12 +26,20 @@ jobs:
         jupyter nbconvert --to pdf formula1/f1.ipynb
         mv formula1/f1.pdf informe_F1.pdf
 
-    - name: Commit and push generated PDF
+    - name: Configure GIT
+      run: |
+          git config --global user.name "JabelResendiz"
+          git config --global user.email "jabelresendiz18@gmail.com"
+
+    - name: Commit
+      run: |
+        git add informe_F1.pdf
+        git commit -m "Update informe_F1.pdf on push"
+         
+        
+    - name: Push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name "JabelResendiz"
-        git config --global user.email "jabelresendiz18@gmail.com"
-        git add informe_F1.pdf
-        git commit -m "Update informe_F1.pdf on push"
-        git push origin main  
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/JabelResendiz/F1StatsLab 
+        git push origin main 

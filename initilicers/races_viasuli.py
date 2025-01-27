@@ -4,7 +4,7 @@ import seaborn as sns
 from scipy import stats
 
 # Cargar los datos
-df = pd.read_csv('./formula1/formula1_race_data.csv')
+df = pd.read_csv('formula1_enhanced_data.csv')
 
 # Configuración de la visualización
 plt.figure(figsize=(15, 20))
@@ -54,7 +54,7 @@ plt.xlabel('Número MaxSpeed')
 
 
 plt.tight_layout()
-plt.savefig('./formula1/f1_distributions.png')
+plt.savefig('f1_distributions_new2.png')
 
 
 print("Se ha generado el gráfico 'f1_distributions.png' con las distribuciones de las variables.")

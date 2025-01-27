@@ -8,7 +8,8 @@ from io import StringIO
 
 # Descargar y leer el archivo CSV
 
-df = pd.read_csv('formula1/formula1_race_data.csv')
+df = pd.read_csv('formula1_enhanced_data.csv')
+
 
 # Convertir columnas a tipo numérico
 numeric_columns = ['Age', 'PitStopTime', 'ReactionTime', 'FinalPosition', 'DNF', 'Points', 'MaxSpeed', 'Overtakes']
@@ -23,29 +24,41 @@ df['WeatherCondition'] = np.random.choice(['Dry', 'Wet', 'Mixed'], len(df))
 df['TyreCompound'] = np.random.choice(['Soft', 'Medium', 'Hard'], len(df))
 df['EngineMode'] = np.random.uniform(1, 10, len(df))
 
-# Crear relaciones más fuertes entre variables
+# Crear distribución normal para los tiempos de pit stop
+mean_pit_stop = 2.5
+std_pit_stop = 0.3
+df['PitStopTime'] = np.random.normal(mean_pit_stop, std_pit_stop, len(df))
+df['PitStopTime'] = df['PitStopTime'].clip(1.8, 4)  # Limitar valores extremos
+
+# Ajustar los tiempos de pit stop basados en el rendimiento del coche y las condiciones
+df['PitStopTime'] += (100 - df['CarPerformance']) * 0.01
+df.loc[df['WeatherCondition'] == 'Wet', 'PitStopTime'] += 0.5
+
+# Crear distribución normal para la velocidad máxima
+mean_max_speed = 330
+std_max_speed = 10
+df['MaxSpeed'] = np.random.normal(mean_max_speed, std_max_speed, len(df))
+
+# Ajustar la velocidad máxima basada en el rendimiento del coche y las condiciones
+df['MaxSpeed'] += (df['CarPerformance'] - 90) * 0.5
+df['MaxSpeed'] -= (df['DownforceLevel'] - 1000) * 0.02
+df.loc[df['WeatherCondition'] == 'Wet', 'MaxSpeed'] -= 20
+df['MaxSpeed'] = df['MaxSpeed'].clip(300, 360)  # Limitar valores extremos
+
+# Resto del código para otras variables
 df['QualifyingPosition'] = 20 - (df['DriverSkill'] + df['CarPerformance']) / 15 + np.random.normal(0, 1, len(df))
 df['QualifyingPosition'] = df['QualifyingPosition'].clip(1, 20).round()
 
-df['MaxSpeed'] = df ['MaxSpeed']
-# df['MaxSpeed'] = 300 + (df['CarPerformance'] * 0.5) + (df['DriverSkill'] * 0.2) - (df['DownforceLevel'] * 0.05) + np.random.normal(0, 2, len(df))
-
 df['Overtakes'] = (20 - df['QualifyingPosition']) * 0.5 + (df['DriverSkill'] - 50) * 0.1 + np.random.poisson(2, len(df))
 df['Overtakes'] = df['Overtakes'].clip(0, 20)
-
-# df['PitStopTime'] = 2 + (100 - df['CarPerformance']) * 0.02 + np.random.normal(0, 0.1, len(df))
-# df['PitStopTime'] = df['PitStopTime'].clip(1.8, 4)
-df ['PitStopTime'] = df['PitStopTime']
-
-
 
 df['TyreWear'] = np.where(df['TyreCompound'] == 'Soft', np.random.uniform(60, 100, len(df)),
                           np.where(df['TyreCompound'] == 'Medium', np.random.uniform(40, 80, len(df)),
                                    np.random.uniform(20, 60, len(df))))
 
-df['FuelConsumption'] = 1.5 + (df['MaxSpeed'] - 300) * 0.005 + (df['EngineMode'] - 5) * 0.05 + np.random.normal(0, 0.05, len(df))
+df['FuelConsumption'] = 1.5 + (df['MaxSpeed'] - 330) * 0.005 + (df['EngineMode'] - 5) * 0.05 + np.random.normal(0, 0.05, len(df))
 
-df['DownforceLevel'] = 1000 - (df['MaxSpeed'] - 300) * 2 + np.random.normal(0, 20, len(df))
+df['DownforceLevel'] = 1000 - (df['MaxSpeed'] - 330) * 2 + np.random.normal(0, 20, len(df))
 
 df['ReactionTime'] = 0.5 - (df['DriverSkill'] - 50) * 0.002 + (df['Age'] - 25) * 0.001 + np.random.normal(0, 0.02, len(df))
 df['ReactionTime'] = df['ReactionTime'].clip(0.2, 0.8)
@@ -75,9 +88,23 @@ plt.title('Matriz de Correlación de Variables en F1')
 plt.tight_layout()
 plt.show()
 
+# Visualizar las distribuciones de PitStopTime y MaxSpeed
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 5))
+
+sns.histplot(df['PitStopTime'], kde=True, ax=ax1)
+ax1.set_title('Distribución de Tiempos de Pit Stop')
+ax1.set_xlabel('Tiempo (segundos)')
+
+sns.histplot(df['MaxSpeed'], kde=True, ax=ax2)
+ax2.set_title('Distribución de Velocidad Máxima')
+ax2.set_xlabel('Velocidad (km/h)')
+
+plt.tight_layout()
+plt.show()
+
 # Mostrar las primeras filas del DataFrame modificado
 print(df[corr_columns].head())
 
 # Guardar el DataFrame modificado
-df.to_csv('formula1_enhanced_data.csv', index=False)
-print("Datos mejorados guardados en 'formula1_enhanced_data.csv'")
+df.to_csv('formula1_enhanced_data_normal.csv', index=False)
+print("Datos mejorados con distribuciones normales guardados en 'formula1_enhanced_data_normal.csv'")

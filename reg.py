@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 import statsmodels.api as sm
 
-data = pd.read_csv("formula1_interlagos_data_final.csv")
+data = pd.read_csv("formula1/formula1_interlagos_df_final.csv")
 
 # Print column names
 print("Available columns:")
@@ -15,26 +15,42 @@ print(data.columns.tolist())
 
 circuit_name = 'Interlagos'
     
+#circuit_data = data.copy()  
 circuit_data = data[data['Circuit'] == circuit_name].copy()  
 
-if circuit_data.empty:
-        print(f"No data found for circuit {circuit_name}")
-        print("Available circuits:")
-        print(data['Circuit'])  
-else:
-        print(f"Data for circuit {circuit_name}:")
-        # print(circuit_data.head()) 
+# if circuit_data.empty:
+#         print(f"No data found for circuit {circuit_name}")
+#         print("Available circuits:")
+#         print(data['Circuit'])  
+# else:
+#         print(f"Data for circuit {circuit_name}:")
+#         # print(circuit_data.head()) 
 
 
-print(f"\nAnalyzing data for circuit: {circuit_name}")
-print(f"Number of races: {len(circuit_data)}")
+# print(f"\nAnalyzing data for circuit: {circuit_name}")
+# print(f"Number of races: {len(circuit_data)}")
 
     # Select relevant features
-# features = ['MaxSpeed','DriverSkill','Age','PitStopTime','ReactionTime',
-#            'FinalPosition','Experience','DNF','Points',
-#             'Overtakes','TyreWear','Experience','DriverSkill','CarPerformance',
-#             'TrackFamiliarity','EngineMode','FuelConsumption','DownforceLevel','TrackTemperature',
+features = ['MaxSpeed','DriverSkill','Age','PitStopTime','ReactionTime',
+           'FinalPosition','Experience','DNF','Points',
+            'Overtakes','TyreWear','Experience','DriverSkill','CarPerformance',
+            'TrackFamiliarity','FuelConsumption','DownforceLevel','TrackTemperature',
+            'WeatherCondition_Mixed','WeatherCondition_Wet','TyreCompound_Medium','TyreCompound_Soft','TrackGrip_Low','TrackGrip_Medium']
+
+# features = ['MaxSpeed','DriverSkill',
+#            'Experience','Points',
+#             'Experience','DriverSkill',
+#             'TrackTemperature',
 #             'WeatherCondition_Mixed','WeatherCondition_Wet','TyreCompound_Medium','TyreCompound_Soft','TrackGrip_Low','TrackGrip_Medium']
+
+
+# features = ['MaxSpeed','DriverSkill',
+#            'Experience',
+#             'Experience','DriverSkill',
+#             'TrackTemperature',
+#             'WeatherCondition_Mixed','WeatherCondition_Wet','TyreCompound_Medium','TyreCompound_Soft','TrackGrip_Low','TrackGrip_Medium']
+
+
 
 # features = ['MaxSpeed','PitStopTime','ReactionTime',
 #            'FinalPosition','Experience','DNF','Points',
@@ -48,11 +64,11 @@ print(f"Number of races: {len(circuit_data)}")
 #             'DownforceLevel',
 #             'TyreCompound_Medium']
 
-features = ['MaxSpeed','ReactionTime',
-           'FinalPosition','DNF','Points',
-            'Overtakes','TyreWear',
-            'DownforceLevel',
-            'TyreCompound_Medium']
+# features = ['MaxSpeed','ReactionTime',
+#            'FinalPosition','DNF','Points',
+#             'Overtakes','TyreWear',
+#             'DownforceLevel',
+#             'TyreCompound_Medium']
 
 target = 'FinalRaceTime'
 
@@ -107,6 +123,7 @@ print(f"\nR-squared: {r_squared:.4f}")
 # Agregar constante para la intersección
 X_train_const = sm.add_constant(X_train_scaled)
 
+
 # Ajustar el modelo de regresión con statsmodels
 model_sm = sm.OLS(y_train, X_train_const).fit()
 
@@ -133,4 +150,13 @@ print(summary_df)
 
 
 
+# Paso 1: Obtener el nombre de la variable con el p-valor más alto
+top_feature = str(summary_df.iloc[0]['Feature']) # Primer variable (con mayor p-valor)
 
+print(top_feature[1:])
+# Paso 2: Eliminar esa variable de la lista 'features'
+
+del features[int(top_feature[1:])-1]
+# Verificamos que la variable ha sido eliminada
+print(f"Variable {top_feature} eliminada de 'features'.")
+print(f"Lista de variables restantes: {features}")

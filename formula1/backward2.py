@@ -36,7 +36,6 @@ def train_model(X, y):
     X_test_scaled = scaler.transform(X_test)
 
 
-
     # Create and train the model
     model = LinearRegression()
     model.fit(X_train_scaled, y_train)
@@ -53,7 +52,6 @@ def train_model(X, y):
 
     # Calculate R-squared
     r_squared = model.score(X_test_scaled, y_test)
-    print(f"\nR-squared: {r_squared:.4f}")
     
    
 # Agregar constante para la intersección
@@ -88,9 +86,9 @@ def train_model(X, y):
 
 
 # Ejecutar el pipeline
-data = load_data("formula1/formula1_interlagos_df_final.csv", "Interlagos")
+data = load_data("formula1_interlagos_df_final.csv", "Melbourne")
 features = ['MaxSpeed', 'DriverSkill', 'Age', 'PitStopTime', 'ReactionTime',
-                    'FinalPosition', 'Experience', 'DNF', 'Points', 'Overtakes', 'TyreWear',
+                    'FinalPosition', 'Experience', 'DNF', 'Overtakes', 'TyreWear',
                     'CarPerformance', 'TrackFamiliarity', 'FuelConsumption', 'DownforceLevel',
                     'TrackTemperature', 'WeatherCondition_Mixed', 'WeatherCondition_Wet',
                     'TyreCompound_Medium', 'TyreCompound_Soft', 'TrackGrip_Low', 'TrackGrip_Medium']
@@ -117,3 +115,52 @@ while len(summary_df)>0:
     summary_df = train_model(X, y)
     
 print(features)
+
+
+
+
+
+def train_model2(X, y):
+    
+    # Split into train and test sets
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    # Scale the features
+    scaler = StandardScaler()
+    X_train_scaled = scaler.fit_transform(X_train)
+    X_test_scaled = scaler.transform(X_test)
+
+
+    # Create and train the model
+    model = LinearRegression()
+    model.fit(X_train_scaled, y_train)
+
+    # Print the equation of the hyperplane
+    coefficients = model.coef_
+    intercept = model.intercept_
+
+    #print("\nEquation of the hyperplane:")
+    equation = f"FinalRaceTime = {intercept:.2f}"
+    for feature, coef in zip(features, coefficients):
+        equation += f" + ({coef:.2f} * {feature})"
+    print(equation)
+
+    # Calculate R-squared
+    r_squared = model.score(X_test_scaled, y_test)
+    
+   
+# Agregar constante para la intersección
+    X_train_const = sm.add_constant(X_train_scaled)
+
+# Ajustar el modelo de regresión con statsmodels
+    model_sm = sm.OLS(y_train, X_train_const).fit()
+
+# Mostrar los p-values de cada coeficiente
+    print(model_sm.summary())
+
+
+print(features)
+data = data = pd.read_csv("formula1_interlagos_df_final.csv")
+circuit_data = data[data['Circuit'] == "Melbourne"].copy()
+X, y = circuit_data[features], circuit_data[target]
+summary_df = train_model2(X, y)
